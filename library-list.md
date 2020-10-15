@@ -7,8 +7,9 @@ diagrams | [chart.js](https://www.chartjs.org) | [charba](https://github.com/pep
 diagrams | [highchart.js](https://www.highcharts.com) | [gwt-highcharts](https://github.com/ascendtech/gwt-highcharts) | JsInterop
 web-worker | - | [gwt-webworker](https://gitlab.com/ManfredTremmel/gwt-webworker) | JSNI
 web-worker | - | [gwtwwlinker](https://github.com/tomekziel/gwtwwlinker) | JSNI
-generator | - | [jsinterop-generator](https://github.com/google/jsinterop-generator) | -
-generator | - | [webtack](https://github.com/realityforge/webtack) | -
+generator | - | [jsinterop-generator](https://github.com/google/jsinterop-generator) | JsInterop
+generator | - | [webtack](https://github.com/realityforge/webtack) | JsInterop
+generator | - | [typescript2java](https://github.com/ltearno/typescript2java) | JsInterop
 qr scanner | [nimiq.qr-scanner](https://github.com/nimiq/qr-scanner) | [gwt-qr-scanner](https://github.com/masterdany88/gwt-qr-scanner) | JsInterop
 zip files | [jszip](https://stuk.github.io/jszip) | [gwtjszip](https://github.com/ainslec/GWTJSZip) | JSNI
 saving files | [filesaver-js](https://github.com/eligrey/FileSaver.js) | [filesaver-js-gwt](https://github.com/ainslec/FileSaverJsGwt) | JSNI
@@ -22,6 +23,12 @@ promise lib | promise.js | [gwt-promises](https://github.com/jimmyfm/gwt-promise
 rx lib | - | [rxjava-gwt](https://github.com/intendia-oss/rxjava-gwt) | -
 jquery mobile | - | [jqm4gwt](https://github.com/jqm4gwt/jqm4gwt) | JSNI
 dependency injection | - | [google-gin](https://github.com/gwtplus/google-gin) | JSNI
+node.js | [node.js](https://nodejs.org/en) | [gwt-node](https://github.com/cretz/gwt-node) | JSNI
+router | - | [mvp4g2](https://github.com/mvp4g/mvp4g2) | JsInterop
+router | - | [nalu](https://github.com/NaluKit/nalu) | JsInterop
+ui framework | [react](https://reactjs.org) | [gwt-react](https://github.com/GWTReact/gwt-react) | JsInterop
+ui framework | [react](https://reactjs.org) | [react4j](https://github.com/react4j/react4j.github.io) | JsInterop
+web api | [web api](https://developer.mozilla.org/en-US/docs/Web/API) | [elemental2](https://github.com/google/elemental2) | JsInterop
  | - | []() | -
  | - | []() | -
- | - | []() | -
+ | - | []() | - 
