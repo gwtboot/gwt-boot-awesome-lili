@@ -7,8 +7,11 @@ diagrams | [chart.js](https://www.chartjs.org) | [charba](https://github.com/pep
 diagrams | [chart.js](https://www.chartjs.org) | [gwt-chartjs](https://github.com/sidney3172/gwt-chartjs) | JSNI
 diagrams | [highchart.js](https://www.highcharts.com) | [gwt-highcharts](https://github.com/ascendtech/gwt-highcharts) | JsInterop
 diagrams | [d3js](https://d3js.org) | [gwt-d3](https://github.com/gwtd3/gwt-d3) | JsInterop
+graphics svg | - | [lib-gwt-svg](https://github.com/laaglu/lib-gwt-svg) | - 
+graphics svg | [snap.svg](http://snapsvg.io) | [gwt-snapsvg](https://github.com/ArcBees/gwt-snapsvg) | JsInterop 
 web-worker | - | [gwt-webworker](https://gitlab.com/ManfredTremmel/gwt-webworker) | JSNI
 web-worker | - | [gwtwwlinker](https://github.com/tomekziel/gwtwwlinker) | JSNI
+web-worker | - | [gwt-worker](https://github.com/gwtplus/gwt-worker) | JSNI
 generator | - | [jsinterop-generator](https://github.com/google/jsinterop-generator) | JsInterop
 generator | - | [webtack](https://github.com/realityforge/webtack) | JsInterop
 generator | - | [typescript2java](https://github.com/ltearno/typescript2java) | JsInterop
@@ -35,7 +38,7 @@ ui framework | - | [domino-ui](https://github.com/DominoKit/domino-ui) | JsInter
 web api | [web api](https://developer.mozilla.org/en-US/docs/Web/API) | [elemental2](https://github.com/google/elemental2) | JsInterop
 web api | [elemental2](https://github.com/google/elemental2) | [elemento](https://github.com/hal/elemento) | JsInterop
 jackson lib | - | [gwt-jackson](https://github.com/nmorel/gwt-jackson) | -
- | - | []() | - 
+analytics lib | - | [universal-analytics](https://github.com/ArcBees/universal-analytics) | - 
  | - | []() | - 
  | - | []() | - 
  | - | []() | - 
