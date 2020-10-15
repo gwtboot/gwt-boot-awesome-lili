@@ -4,7 +4,9 @@ Category | JS Lib Name |  GWT Lib Name | JsInterop or JSNI
 -------- | ----------- | ------------- | ----------------- 
 maps | [open-layers3](https://openlayers.org) | [gwt-ol](https://github.com/TDesjardins/gwt-ol) | JsInterop
 diagrams | [chart.js](https://www.chartjs.org) | [charba](https://github.com/pepstock-org/Charba) | JsInterop
+diagrams | [chart.js](https://www.chartjs.org) | [gwt-chartjs](https://github.com/sidney3172/gwt-chartjs) | JSNI
 diagrams | [highchart.js](https://www.highcharts.com) | [gwt-highcharts](https://github.com/ascendtech/gwt-highcharts) | JsInterop
+diagrams | [d3js](https://d3js.org) | [gwt-d3](https://github.com/gwtd3/gwt-d3) | JsInterop
 web-worker | - | [gwt-webworker](https://gitlab.com/ManfredTremmel/gwt-webworker) | JSNI
 web-worker | - | [gwtwwlinker](https://github.com/tomekziel/gwtwwlinker) | JSNI
 generator | - | [jsinterop-generator](https://github.com/google/jsinterop-generator) | JsInterop
@@ -21,6 +23,7 @@ completable future | -| [gwt-completablefuture](https://github.com/OneGeek/GWT-C
 promise lib | - | [gdeferred](https://github.com/reinert/gdeferred) | -
 promise lib | promise.js | [gwt-promises](https://github.com/jimmyfm/gwt-promises) | JsInterop
 rx lib | - | [rxjava-gwt](https://github.com/intendia-oss/rxjava-gwt) | -
+rx lib | - | [rxgwt](https://github.com/intendia-oss/rxgwt) | -
 jquery mobile | - | [jqm4gwt](https://github.com/jqm4gwt/jqm4gwt) | JSNI
 dependency injection | - | [google-gin](https://github.com/gwtplus/google-gin) | JSNI
 node.js | [node.js](https://nodejs.org/en) | [gwt-node](https://github.com/cretz/gwt-node) | JSNI
@@ -28,7 +31,13 @@ router | - | [mvp4g2](https://github.com/mvp4g/mvp4g2) | JsInterop
 router | - | [nalu](https://github.com/NaluKit/nalu) | JsInterop
 ui framework | [react](https://reactjs.org) | [gwt-react](https://github.com/GWTReact/gwt-react) | JsInterop
 ui framework | [react](https://reactjs.org) | [react4j](https://github.com/react4j/react4j.github.io) | JsInterop
+ui framework | - | [domino-ui](https://github.com/DominoKit/domino-ui) | JsInterop
 web api | [web api](https://developer.mozilla.org/en-US/docs/Web/API) | [elemental2](https://github.com/google/elemental2) | JsInterop
- | - | []() | -
- | - | []() | -
+web api | [elemental2](https://github.com/google/elemental2) | [elemento](https://github.com/hal/elemento) | JsInterop
+jackson lib | - | [gwt-jackson](https://github.com/nmorel/gwt-jackson) | -
  | - | []() | - 
+ | - | []() | - 
+ | - | []() | - 
+ | - | []() | - 
+ | - | []() | - 
+ | - | []() | -  
