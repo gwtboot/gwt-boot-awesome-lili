@@ -20,6 +20,7 @@ generator | - | [jsinterop-generator](https://github.com/google/jsinterop-genera
 generator | - | [webtack](https://github.com/realityforge/webtack) | JsInterop
 generator | - | [typescript2java](https://github.com/ltearno/typescript2java) | JsInterop
 qr scanner | [nimiq.qr-scanner](https://github.com/nimiq/qr-scanner) | [gwt-qr-scanner](https://github.com/masterdany88/gwt-qr-scanner) | JsInterop
+support lib | - | [gwt-qr-code](https://github.com/realityforge/gwt-qr-code) | - | GWT QR Code Generation
 zip files | [jszip](https://stuk.github.io/jszip) | [gwtjszip](https://github.com/ainslec/GWTJSZip) | JSNI
 lzma compression | - | [gwt-lzma](https://gitlab.com/ManfredTremmel/gwt-lzma) | -
 saving files | [filesaver-js](https://github.com/eligrey/FileSaver.js) | [filesaver-js-gwt](https://github.com/ainslec/FileSaverJsGwt) | JSNI
@@ -73,6 +74,5 @@ auth lib | [keycloak.js](https://www.npmjs.com/package/keycloak-js) | [gwt-keycl
 test lib | - | [gwt-symbolmap](https://github.com/realityforge/gwt-symbolmap) | - | SymbolMap Support Library
 test lib | - | [grim](https://github.com/realityforge/grim) | - | Assert unexpected symbols are eliminated from output
 support lib | - | [braincheck](https://github.com/realityforge/braincheck) | - | A GWT/J2CL invariant checking toolkit that is optimized out in production builds
-support lib | - | [gwt-qr-code](https://github.com/realityforge/gwt-qr-code) | - | GWT QR Code Generation
 support lib | - | [org.jetbrains.annotations](https://github.com/realityforge/org.jetbrains.annotations) | - | A GWT/J2CL compatible org.jetbrains.annotations library
 support lib | - | [javax.annotation](https://github.com/realityforge/javax.annotation) | - | A J2CL compatible javax.annotation library
