@@ -31,7 +31,8 @@ rx lib | - | [rxjava-gwt](https://github.com/intendia-oss/rxjava-gwt) | -
 rx lib | - | [rxgwt](https://github.com/intendia-oss/rxgwt) | -
 jquery mobile | [jquery](https://jquery.com) | [jqm4gwt](https://github.com/jqm4gwt/jqm4gwt) | JSNI
 jquery | [jquery](https://jquery.com) | [gwtquery](https://github.com/ArcBees/gwtquery) | JSNI
-dependency injection | - | [google-gin](https://github.com/gwtplus/google-gin) | JSNI
+dependency injection | - | [google-gin](https://github.com/gwtplus/google-gin) | -
+dependency injection | - | [dagger2](https://dagger.dev) | -
 node.js | [node.js](https://nodejs.org/en) | [gwt-node](https://github.com/cretz/gwt-node) | JSNI
 router | - | [mvp4g2](https://github.com/mvp4g/mvp4g2) | JsInterop
 router | - | [nalu](https://github.com/NaluKit/nalu) | JsInterop
@@ -46,7 +47,7 @@ ui framework | - | [errai](https://github.com/errai/errai) | JSNI
 ui framework bootstrap | [bootstrap](https://getbootstrap.com) | [gwtbootstrap3](https://github.com/gwtbootstrap3/gwtbootstrap3) | JSNI
 ui framework bootstrap | [bootstrap](https://getbootstrap.com) | [gwtbootstrap3](https://github.com/treblereel/gwtbootstrap3) | JsInterop
 ui framework vuejs | [vuejs](https://vuejs.org) | [vue-gwt](https://github.com/VueGWT/vue-gwt) | JsInterop
-ui framework bootstrap and material design | [bootstrap](https://getbootstrap.com) [material design](https://material.io/design) | [dncomponents](https://dncomponents.com/index.html) | JsInterop
+ui framework bootstrap and material design | [bootstrap](https://getbootstrap.com) and [material design](https://material.io/design) | [dncomponents](https://dncomponents.com/index.html) | JsInterop
 web api | [web api](https://developer.mozilla.org/en-US/docs/Web/API) | [elemental2](https://github.com/google/elemental2) | JsInterop
 web api | [elemental2](https://github.com/google/elemental2) | [elemento](https://github.com/hal/elemento) | JsInterop
 jackson lib | - | [gwt-jackson](https://github.com/nmorel/gwt-jackson) | -
