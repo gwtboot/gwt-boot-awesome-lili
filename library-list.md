@@ -26,7 +26,7 @@ web-sockets | - | [webbit-gwt](https://github.com/niloc132/webbit-gwt) | -
 socket io | [socket-io](https://socket.io) | [gwt-socket.io](https://github.com/jumanor/gwt_socket.io) | JSNI
 completable future | -| [gwt-completablefuture](https://github.com/OneGeek/GWT-CompletableFuture) | -
 promise lib | - | [gdeferred](https://github.com/reinert/gdeferred) | -
-promise lib | promise.js | [gwt-promises](https://github.com/jimmyfm/gwt-promises) | JsInterop
+promise lib | [promise.js](https://www.promisejs.org) | [gwt-promises](https://github.com/jimmyfm/gwt-promises) | JsInterop
 rx lib | - | [rxjava-gwt](https://github.com/intendia-oss/rxjava-gwt) | -
 rx lib | - | [rxgwt](https://github.com/intendia-oss/rxgwt) | -
 jquery mobile | [jquery](https://jquery.com) | [jqm4gwt](https://github.com/jqm4gwt/jqm4gwt) | JSNI
