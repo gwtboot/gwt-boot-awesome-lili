@@ -11,6 +11,7 @@ diagrams | [d3js](https://d3js.org) | [gwt-d3](https://github.com/gwtd3/gwt-d3) 
 graphics svg | - | [lib-gwt-svg](https://github.com/laaglu/lib-gwt-svg) | - 
 graphics svg | [snap.svg](http://snapsvg.io) | [gwt-snapsvg](https://github.com/ArcBees/gwt-snapsvg) | JsInterop 
 game engine | [box2d](https://box2d.org) | [jbox2d](https://github.com/jbox2d/jbox2d) | - 
+3d library | [three.js](https://github.com/mrdoob/three.js) | [gwt.threejs](https://gitlab.com/jnorthrup1/gwt.threejs) | JSNI
 web-worker | - | [gwt-webworker](https://gitlab.com/ManfredTremmel/gwt-webworker) | JSNI
 web-worker | - | [gwtwwlinker](https://github.com/tomekziel/gwtwwlinker) | JSNI
 web-worker | - | [gwt-worker](https://github.com/gwtplus/gwt-worker) | JSNI
@@ -64,11 +65,3 @@ commons validator | - | [gwt-commons-validator](https://gitlab.com/ManfredTremme
 bean validators | - | [gwt-bean-validators](https://gitlab.com/ManfredTremmel/gwt-bean-validators) | -
 drag and drop | - | [gwt-dnd](https://gitlab.com/vedenin/gwt-dnd) | -
 html5 pushstate | - | [gwt-pushstate](https://gitlab.com/ManfredTremmel/gwt-pushstate) | -
-
-
-
- | - | []() | -
- | - | []() | -
- | - | []() | -
- | - | []() | -
- | - | []() | -
