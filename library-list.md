@@ -46,7 +46,7 @@ ui framework | - | [errai](https://github.com/errai/errai) | JSNI
 ui framework bootstrap | [bootstrap](https://getbootstrap.com) | [gwtbootstrap3](https://github.com/gwtbootstrap3/gwtbootstrap3) | JSNI
 ui framework bootstrap | [bootstrap](https://getbootstrap.com) | [gwtbootstrap3](https://github.com/treblereel/gwtbootstrap3) | JsInterop
 ui framework vuejs | [vuejs](https://vuejs.org) | [vue-gwt](https://github.com/VueGWT/vue-gwt) | JsInterop
-ui framework bootstrap and material design | - | [dncomponents](https://dncomponents.com/index.html) | JsInterop
+ui framework bootstrap and material design | [bootstrap](https://getbootstrap.com) [material design](https://material.io/design) | [dncomponents](https://dncomponents.com/index.html) | JsInterop
 web api | [web api](https://developer.mozilla.org/en-US/docs/Web/API) | [elemental2](https://github.com/google/elemental2) | JsInterop
 web api | [elemental2](https://github.com/google/elemental2) | [elemento](https://github.com/hal/elemento) | JsInterop
 jackson lib | - | [gwt-jackson](https://github.com/nmorel/gwt-jackson) | -
