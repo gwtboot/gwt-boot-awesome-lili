@@ -10,6 +10,7 @@ diagrams | [highchart.js](https://www.highcharts.com) | [gwt-highcharts](https:/
 diagrams | [d3js](https://d3js.org) | [gwt-d3](https://github.com/gwtd3/gwt-d3) | JsInterop
 graphics svg | - | [lib-gwt-svg](https://github.com/laaglu/lib-gwt-svg) | - 
 graphics svg | [snap.svg](http://snapsvg.io) | [gwt-snapsvg](https://github.com/ArcBees/gwt-snapsvg) | JsInterop 
+game engine | [box2d](https://box2d.org) | [jbox2d](https://github.com/jbox2d/jbox2d) | - 
 web-worker | - | [gwt-webworker](https://gitlab.com/ManfredTremmel/gwt-webworker) | JSNI
 web-worker | - | [gwtwwlinker](https://github.com/tomekziel/gwtwwlinker) | JSNI
 web-worker | - | [gwt-worker](https://github.com/gwtplus/gwt-worker) | JSNI
@@ -18,6 +19,7 @@ generator | - | [webtack](https://github.com/realityforge/webtack) | JsInterop
 generator | - | [typescript2java](https://github.com/ltearno/typescript2java) | JsInterop
 qr scanner | [nimiq.qr-scanner](https://github.com/nimiq/qr-scanner) | [gwt-qr-scanner](https://github.com/masterdany88/gwt-qr-scanner) | JsInterop
 zip files | [jszip](https://stuk.github.io/jszip) | [gwtjszip](https://github.com/ainslec/GWTJSZip) | JSNI
+lzma compression | - | [gwt-lzma](https://gitlab.com/ManfredTremmel/gwt-lzma) | -
 saving files | [filesaver-js](https://github.com/eligrey/FileSaver.js) | [filesaver-js-gwt](https://github.com/ainslec/FileSaverJsGwt) | JSNI
 goodies utils | collection of js utils | [gwt-goodies](https://github.com/peruncs/gwt) | JsInterop
 payment paypal js | [paypal checkout js sdk](https://developer.paypal.com/docs/checkout/integrate) | [paypalwithgwt](https://github.com/schube/paypalwithgwt) | JsInterop
@@ -56,3 +58,17 @@ event bus | - | [gwteventbinder](https://github.com/google/gwteventbinder) | -
 test mockito | - | [gwtmockito](https://github.com/google/gwtmockito) | - 
 rest framework | - | [domino-rest](https://github.com/DominoKit/domino-rest) | JsInterop 
 rest framework | - | [resty-gwt](https://github.com/resty-gwt/resty-gwt) | JSNI 
+commons lib | - | [gwt-commons-lang3](https://gitlab.com/ManfredTremmel/gwt-commons-lang3) | -
+commons codec | - | [gwt-commons-codec](https://gitlab.com/ManfredTremmel/gwt-commons-codec) | -
+commons validator | - | [gwt-commons-validator](https://gitlab.com/ManfredTremmel/gwt-commons-validator) | -
+bean validators | - | [gwt-bean-validators](https://gitlab.com/ManfredTremmel/gwt-bean-validators) | -
+drag and drop | - | [gwt-dnd](https://gitlab.com/vedenin/gwt-dnd) | -
+html5 pushstate | - | [gwt-pushstate](https://gitlab.com/ManfredTremmel/gwt-pushstate) | -
+
+
+
+ | - | []() | -
+ | - | []() | -
+ | - | []() | -
+ | - | []() | -
+ | - | []() | -
