@@ -3,6 +3,7 @@
 Category | JS Lib Name |  GWT Lib Name | JsInterop or JSNI
 -------- | ----------- | ------------- | ----------------- 
 maps | [open-layers3](https://openlayers.org) | [gwt-ol](https://github.com/TDesjardins/gwt-ol) | JsInterop
+maps | [google maps](https://developers.google.com/maps/documentation) | [gwt-maps](https://github.com/branflake2267/GWT-Maps-V3-Api) | JSNI
 diagrams | [chart.js](https://www.chartjs.org) | [charba](https://github.com/pepstock-org/Charba) | JsInterop
 diagrams | [chart.js](https://www.chartjs.org) | [gwt-chartjs](https://github.com/sidney3172/gwt-chartjs) | JSNI
 diagrams | [highchart.js](https://www.highcharts.com) | [gwt-highcharts](https://github.com/ascendtech/gwt-highcharts) | JsInterop
