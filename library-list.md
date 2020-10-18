@@ -27,14 +27,11 @@ goodies utils | collection of js utils | [gwt-goodies](https://github.com/perunc
 payment paypal js | [paypal checkout js sdk](https://developer.paypal.com/docs/checkout/integrate) | [paypalwithgwt](https://github.com/schube/paypalwithgwt) | JsInterop
 payment stripe js | [stripe js sdk](https://stripe.com/docs/js) | [gwt-stripe](https://github.com/ArcBees/gwt-stripe) | JSNI
 web-sockets | - | [webbit-gwt](https://github.com/niloc132/webbit-gwt) | -
-network | - | [gwt-webpoller](https://github.com/realityforge/gwt-webpoller) | JSNI | A library to support periodic polling and long-poll based communication
-network | - | [gwt-eventsource](https://github.com/realityforge/gwt-eventsource) | JSNI | A library to support EventSource transport
 socket io | [socket-io](https://socket.io) | [gwt-socket.io](https://github.com/jumanor/gwt_socket.io) | JSNI
 completable future | -| [gwt-completablefuture](https://github.com/OneGeek/GWT-CompletableFuture) | -
 promise lib | - | [gdeferred](https://github.com/reinert/gdeferred) | -
 promise lib | [promise.js](https://www.promisejs.org) | [gwt-promises](https://github.com/jimmyfm/gwt-promises) | JsInterop
 support lib | - | [gwt-serviceworker-linker](https://github.com/realityforge/gwt-serviceworker-linker) | JsInterop | A GWT linker that generates a serviceworker
-support lib | - | [gwt-appcache](https://github.com/realityforge/gwt-appcache) | - | A GWT AppCache support library
 support lib | - | [gwt-cache-filter](https://github.com/realityforge/gwt-cache-filter) | - | A servlet filter that adds the appropriate http caching headers to GWT generated files based on *.cache.* and *.nocache.* naming patterns
 rx lib | - | [rxjava-gwt](https://github.com/intendia-oss/rxjava-gwt) | -
 rx lib | - | [rxgwt](https://github.com/intendia-oss/rxgwt) | -
