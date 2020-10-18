@@ -69,3 +69,4 @@ drag and drop | - | [gwt-dnd](https://gitlab.com/vedenin/gwt-dnd) | -
 html5 pushstate | - | [gwt-pushstate](https://gitlab.com/ManfredTremmel/gwt-pushstate) | -
 auth lib | [keycloak.js](https://www.npmjs.com/package/keycloak-js) | [gwt-keycloak](https://github.com/realityforge/gwt-keycloak) | JSNI | A keycloak authentication adapter
 test lib | - | [gwt-symbolmap](https://github.com/realityforge/gwt-symbolmap) | - | SymbolMap Assertions Library
+support lib | - | [org.jetbrains.annotations](https://github.com/realityforge/org.jetbrains.annotations) | - | A GWT/J2CL compatible org.jetbrains.annotations library
