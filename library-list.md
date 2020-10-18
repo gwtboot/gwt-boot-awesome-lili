@@ -2,6 +2,7 @@
 
 Category | JS Lib Name |  GWT Lib Name | JsInterop or JSNI | Description
 -------- | ----------- | ------------- | ----------------- | -----------
+state management | - | [arez](https://arez.github.io/) | JsInterop | Fast, easy state management library
 maps | [open-layers3](https://openlayers.org) | [gwt-ol](https://github.com/TDesjardins/gwt-ol) | JsInterop
 maps | [google maps](https://developers.google.com/maps/documentation) | [gwt-maps](https://github.com/branflake2267/GWT-Maps-V3-Api) | JSNI
 diagrams | [chart.js](https://www.chartjs.org) | [charba](https://github.com/pepstock-org/Charba) | JsInterop
