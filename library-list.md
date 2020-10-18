@@ -1,7 +1,7 @@
 # Library List for GWT / J2CL
 
-Category | JS Lib Name |  GWT Lib Name | JsInterop or JSNI
--------- | ----------- | ------------- | ----------------- 
+Category | JS Lib Name |  GWT Lib Name | JsInterop or JSNI | Description
+-------- | ----------- | ------------- | ----------------- | -----------
 maps | [open-layers3](https://openlayers.org) | [gwt-ol](https://github.com/TDesjardins/gwt-ol) | JsInterop
 maps | [google maps](https://developers.google.com/maps/documentation) | [gwt-maps](https://github.com/branflake2267/GWT-Maps-V3-Api) | JSNI
 diagrams | [chart.js](https://www.chartjs.org) | [charba](https://github.com/pepstock-org/Charba) | JsInterop
@@ -67,4 +67,4 @@ bean validators | - | [gwt-bean-validators](https://gitlab.com/ManfredTremmel/gw
 drag and drop | - | [gwt-dnd](https://gitlab.com/vedenin/gwt-dnd) | -
 html5 pushstate | - | [gwt-pushstate](https://gitlab.com/ManfredTremmel/gwt-pushstate) | -
 auth lib | [keycloak.js](https://www.npmjs.com/package/keycloak-js) | [gwt-keycloak](https://github.com/realityforge/gwt-keycloak) | JSNI
-test lib | - | [gwt-symbolmap](https://github.com/realityforge/gwt-symbolmap) | -
+test lib | - | [gwt-symbolmap](https://github.com/realityforge/gwt-symbolmap) | - | SymbolMap Assertions Library
