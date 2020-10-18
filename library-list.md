@@ -41,6 +41,7 @@ jquery mobile | [jquery](https://jquery.com) | [jqm4gwt](https://github.com/jqm4
 jquery | [jquery](https://jquery.com) | [gwtquery](https://github.com/ArcBees/gwtquery) | JSNI
 dependency injection | - | [google-gin](https://github.com/gwtplus/google-gin) | -
 dependency injection | - | [dagger2](https://dagger.dev) | -
+dependency injection | - | [sting](https://sting-ioc.github.io/) | - | A fast, easy to use, compile-time dependency injection toolkit
 node.js | [node.js](https://nodejs.org/en) | [gwt-node](https://github.com/cretz/gwt-node) | JSNI
 router | - | [mvp4g2](https://github.com/mvp4g/mvp4g2) | JsInterop
 router | - | [nalu](https://github.com/NaluKit/nalu) | JsInterop
