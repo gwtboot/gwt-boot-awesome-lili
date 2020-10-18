@@ -27,6 +27,8 @@ goodies utils | collection of js utils | [gwt-goodies](https://github.com/perunc
 payment paypal js | [paypal checkout js sdk](https://developer.paypal.com/docs/checkout/integrate) | [paypalwithgwt](https://github.com/schube/paypalwithgwt) | JsInterop
 payment stripe js | [stripe js sdk](https://stripe.com/docs/js) | [gwt-stripe](https://github.com/ArcBees/gwt-stripe) | JSNI
 web-sockets | - | [webbit-gwt](https://github.com/niloc132/webbit-gwt) | -
+network | - | [gwt-webpoller](https://github.com/realityforge/gwt-webpoller) | JSNI | A library to support periodic polling and long-poll based communication
+network | - | [gwt-eventsource](https://github.com/realityforge/gwt-eventsource) | JSNI | A library to support EventSource transport
 socket io | [socket-io](https://socket.io) | [gwt-socket.io](https://github.com/jumanor/gwt_socket.io) | JSNI
 completable future | -| [gwt-completablefuture](https://github.com/OneGeek/GWT-CompletableFuture) | -
 promise lib | - | [gdeferred](https://github.com/reinert/gdeferred) | -
