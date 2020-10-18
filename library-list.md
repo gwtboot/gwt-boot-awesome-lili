@@ -37,14 +37,26 @@ router | - | [mvp4g2](https://github.com/mvp4g/mvp4g2) | JsInterop
 router | - | [nalu](https://github.com/NaluKit/nalu) | JsInterop
 ui framework react | [react](https://reactjs.org) | [gwt-react](https://github.com/GWTReact/gwt-react) | JsInterop
 ui framework react | [react](https://reactjs.org) | [react4j](https://github.com/react4j/react4j.github.io) | JsInterop
-ui framework | - | [domino-ui](https://github.com/DominoKit/domino-ui) | JsInterop
+ui framework material design | [material design](https://material.io/design) | [domino-ui](https://github.com/DominoKit/domino-ui) | JsInterop
+ui framework material design | [material design](https://material.io/design) | [gwt-material](https://github.com/GwtMaterialDesign/gwt-material) | JsInterop
 ui framework salesforce theo | [theo](https://github.com/salesforce-ux/theo) | [gwt-theo](https://github.com/ArcBees/gwt-theo) | JSNI
 ui framework angular2 | [angular](https://angular.io) | [angular2-gwt](https://github.com/ltearno/angular2-gwt) | JsInterop 
+ui framework | - | [html-ui-binder](https://github.com/RaHery/html-ui-binder) | -
+ui framework | - | [errai](https://github.com/errai/errai) | JSNI
+ui framework bootstrap | [bootstrap](https://getbootstrap.com) | [gwtbootstrap3](https://github.com/gwtbootstrap3/gwtbootstrap3) | JSNI
+ui framework bootstrap | [bootstrap](https://getbootstrap.com) | [gwtbootstrap3](https://github.com/treblereel/gwtbootstrap3) | JsInterop
+ui framework vuejs | [vuejs](https://vuejs.org) | [vue-gwt](https://github.com/VueGWT/vue-gwt) | JsInterop
+
+ui framework | - | [errai](https://github.com/errai/errai) | JSNI
+ui framework | - | [errai](https://github.com/errai/errai) | JSNI
+
+
 web api | [web api](https://developer.mozilla.org/en-US/docs/Web/API) | [elemental2](https://github.com/google/elemental2) | JsInterop
 web api | [elemental2](https://github.com/google/elemental2) | [elemento](https://github.com/hal/elemento) | JsInterop
 jackson lib | - | [gwt-jackson](https://github.com/nmorel/gwt-jackson) | -
 analytics lib | - | [universal-analytics](https://github.com/ArcBees/universal-analytics) | - 
- | - | []() | - 
- | - | []() | - 
- | - | []() | - 
+event bus | - | [gwteventbinder](https://github.com/google/gwteventbinder) | - 
+test mockito | - | [gwtmockito](https://github.com/google/gwtmockito) | - 
+
+rest | - | []() | - 
  | - | []() | -  
