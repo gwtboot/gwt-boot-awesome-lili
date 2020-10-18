@@ -40,6 +40,7 @@ dependency injection | - | [dagger2](https://dagger.dev) | -
 node.js | [node.js](https://nodejs.org/en) | [gwt-node](https://github.com/cretz/gwt-node) | JSNI
 router | - | [mvp4g2](https://github.com/mvp4g/mvp4g2) | JsInterop
 router | - | [nalu](https://github.com/NaluKit/nalu) | JsInterop
+router | - | [router-fu](https://github.com/realityforge/router-fu) | JsInterop | A framework agnostic, state producing router
 ui framework react | [react](https://reactjs.org) | [gwt-react](https://github.com/GWTReact/gwt-react) | JsInterop
 ui framework react | [react](https://reactjs.org) | [react4j](https://github.com/react4j/react4j.github.io) | JsInterop
 ui framework material design | [material design](https://material.io/design) | [domino-ui](https://github.com/DominoKit/domino-ui) | JsInterop
