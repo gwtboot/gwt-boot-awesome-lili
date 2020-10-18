@@ -31,6 +31,7 @@ socket io | [socket-io](https://socket.io) | [gwt-socket.io](https://github.com/
 completable future | -| [gwt-completablefuture](https://github.com/OneGeek/GWT-CompletableFuture) | -
 promise lib | - | [gdeferred](https://github.com/reinert/gdeferred) | -
 promise lib | [promise.js](https://www.promisejs.org) | [gwt-promises](https://github.com/jimmyfm/gwt-promises) | JsInterop
+support lib | - | [gwt-serviceworker-linker](https://github.com/realityforge/gwt-serviceworker-linker) | JsInterop | A GWT linker that generates a serviceworker
 rx lib | - | [rxjava-gwt](https://github.com/intendia-oss/rxjava-gwt) | -
 rx lib | - | [rxgwt](https://github.com/intendia-oss/rxgwt) | -
 jquery mobile | [jquery](https://jquery.com) | [jqm4gwt](https://github.com/jqm4gwt/jqm4gwt) | JSNI
