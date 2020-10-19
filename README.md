@@ -1,49 +1,91 @@
 # Awesome Library List (LiLi)
-GWT Boot JsInterop Library List (LiLi) - Collection of JavaScript Libraries with JsInterop Interfaces
+GWT Boot Awesome Library List (LiLi) - Collection of JavaScript Libraries with JsInterop Interfaces and others
 
-The Library List (LiLi) is managed in this file: [Library List](library-list.md)
+## Contents
 
-# Library List for GWT / J2CL
+- [State Management](#state-management)
+- [Maps](#maps)
+- [Diagrams](#diagrams)
+- [Graphics SVG](#graphics-svg)
+- [Game Engine](#game-engine)
+- [3D Library](#3d-library)
 
-Category | JS Lib Name |  GWT Lib Name | JsInterop or JSNI | Description
--------- | ----------- | ------------- | ----------------- | -----------
-state management | - | [arez](https://arez.github.io/) | JsInterop | Fast, easy state management library
-maps | [open-layers3](https://openlayers.org) | [gwt-ol](https://github.com/TDesjardins/gwt-ol) | JsInterop
-maps | [google maps](https://developers.google.com/maps/documentation) | [gwt-maps](https://github.com/branflake2267/GWT-Maps-V3-Api) | JSNI
-diagrams | [chart.js](https://www.chartjs.org) | [charba](https://github.com/pepstock-org/Charba) | JsInterop
-diagrams | [chart.js](https://www.chartjs.org) | [gwt-chartjs](https://github.com/sidney3172/gwt-chartjs) | JSNI
-diagrams | [highchart.js](https://www.highcharts.com) | [gwt-highcharts](https://github.com/ascendtech/gwt-highcharts) | JsInterop
-diagrams | [d3js](https://d3js.org) | [gwt-d3](https://github.com/gwtd3/gwt-d3) | JsInterop
-graphics svg | - | [lib-gwt-svg](https://github.com/laaglu/lib-gwt-svg) | - 
-graphics svg | [snap.svg](http://snapsvg.io) | [gwt-snapsvg](https://github.com/ArcBees/gwt-snapsvg) | JsInterop 
-game engine | [box2d](https://box2d.org) | [jbox2d](https://github.com/jbox2d/jbox2d) | - 
-3d library | [three.js](https://github.com/mrdoob/three.js) | [gwt.threejs](https://gitlab.com/jnorthrup1/gwt.threejs) | JSNI
-math lib | - | [vecmath](https://github.com/realityforge/vecmath) | JsInterop | A vector math library optimized for GWT/J2CL
+
+## State Management
+
+- [arez](https://arez.github.io) - Fast, easy state management library (JsInterop)
+
+## Maps
+
+- [gwt-ol](https://github.com/TDesjardins/gwt-ol) - Maps library based on [open-layers3](https://openlayers.org) (JsInterop)
+- [gwt-maps](https://github.com/branflake2267/GWT-Maps-V3-Api) - Maps library based on [google maps](https://developers.google.com/maps/documentation) (JSNI)
+
+## Diagrams
+
+- [charba](https://github.com/pepstock-org/Charba) - Chart library based on [chart.js](https://www.chartjs.org) (JsInterop)
+- [gwt-highcharts](https://github.com/ascendtech/gwt-highcharts) - Chart library based on [highchart.js](https://www.highcharts.com) (JsInterop)
+- [d3js](https://d3js.org) - Chart library based on [gwt-d3](https://github.com/gwtd3/gwt-d3) (JsInterop)
+- [gwt-chartjs](https://github.com/sidney3172/gwt-chartjs) - Chart library based on [chart.js](https://www.chartjs.org) (JSNI)
+
+## Graphics SVG
+
+- [gwt-snapsvg](https://github.com/ArcBees/gwt-snapsvg) - SVG library based on [snap.svg](http://snapsvg.io) (JsInterop)
+- [lib-gwt-svg](https://github.com/laaglu/lib-gwt-svg) - SVG library 
+
+
+## Game Engine
+
+- [jbox2d](https://github.com/jbox2d/jbox2d) - Game engine 2D based on [box2d](https://box2d.org)
+
+## 3D Library
+
+- [three4g]https://github.com/treblereel/three4g - 3D library based on [three.js](https://github.com/mrdoob/three.js) (JsInterop)
+- [gwt.threejs](https://gitlab.com/jnorthrup1/gwt.threejs) - 3D library based on [three.js](https://github.com/mrdoob/three.js) (JSNI)
+
+## Math Library
+
+- [vecmath](https://github.com/realityforge/vecmath) - A vector math library optimized for GWT/J2CL (JsInterop)
+- [gwt-bigmath](https://github.com/treblereel/gwt-bigmath) - A big math library (JsInterop)
+
+## Web Worker
+
 web-worker | - | [gwt-webworker](https://gitlab.com/ManfredTremmel/gwt-webworker) | JSNI
 web-worker | - | [gwtwwlinker](https://github.com/tomekziel/gwtwwlinker) | JSNI
 web-worker | - | [gwt-worker](https://github.com/gwtplus/gwt-worker) | JSNI
+
+
 generator | - | [jsinterop-generator](https://github.com/google/jsinterop-generator) | JsInterop
 generator | - | [webtack](https://github.com/realityforge/webtack) | JsInterop
 generator | - | [typescript2java](https://github.com/ltearno/typescript2java) | JsInterop
+
 qr scanner | [nimiq.qr-scanner](https://github.com/nimiq/qr-scanner) | [gwt-qr-scanner](https://github.com/masterdany88/gwt-qr-scanner) | JsInterop
 support lib | - | [gwt-qr-code](https://github.com/realityforge/gwt-qr-code) | - | GWT QR Code Generation
+
 zip files | [jszip](https://stuk.github.io/jszip) | [gwtjszip](https://github.com/ainslec/GWTJSZip) | JSNI
 lzma compression | - | [gwt-lzma](https://gitlab.com/ManfredTremmel/gwt-lzma) | -
+
 saving files | [filesaver-js](https://github.com/eligrey/FileSaver.js) | [filesaver-js-gwt](https://github.com/ainslec/FileSaverJsGwt) | JSNI
 goodies utils | collection of js utils | [gwt-goodies](https://github.com/peruncs/gwt) | JsInterop
+
 payment paypal js | [paypal checkout js sdk](https://developer.paypal.com/docs/checkout/integrate) | [paypalwithgwt](https://github.com/schube/paypalwithgwt) | JsInterop
 payment stripe js | [stripe js sdk](https://stripe.com/docs/js) | [gwt-stripe](https://github.com/ArcBees/gwt-stripe) | JSNI
+
 web-sockets | - | [webbit-gwt](https://github.com/niloc132/webbit-gwt) | -
 socket io | [socket-io](https://socket.io) | [gwt-socket.io](https://github.com/jumanor/gwt_socket.io) | JSNI
+
 completable future | -| [gwt-completablefuture](https://github.com/OneGeek/GWT-CompletableFuture) | -
 promise lib | - | [gdeferred](https://github.com/reinert/gdeferred) | -
 promise lib | [promise.js](https://www.promisejs.org) | [gwt-promises](https://github.com/jimmyfm/gwt-promises) | JsInterop
+
 support lib | - | [gwt-serviceworker-linker](https://github.com/realityforge/gwt-serviceworker-linker) | JsInterop | A GWT linker that generates a serviceworker
 support lib | - | [gwt-cache-filter](https://github.com/realityforge/gwt-cache-filter) | - | A servlet filter that adds the appropriate http caching headers to GWT generated files based on *.cache.* and *.nocache.* naming patterns
+
 rx lib | - | [rxjava-gwt](https://github.com/intendia-oss/rxjava-gwt) | -
 rx lib | - | [rxgwt](https://github.com/intendia-oss/rxgwt) | -
+
 jquery mobile | [jquery](https://jquery.com) | [jqm4gwt](https://github.com/jqm4gwt/jqm4gwt) | JSNI
-jquery | [jquery](https://jquery.com) | [gwtquery](https://github.com/ArcBees/gwtquery) | JSNI
+jquery | - | [gwtquery](https://github.com/ArcBees/gwtquery) | JSNI
+
 dependency injection | - | [google-gin](https://github.com/gwtplus/google-gin) | -
 dependency injection | - | [dagger2](https://dagger.dev) | -
 dependency injection | - | [sting](https://sting-ioc.github.io/) | - | A fast, easy to use, compile-time dependency injection toolkit
