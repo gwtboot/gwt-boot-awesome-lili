@@ -1,6 +1,6 @@
 # GWT Awesome Library List (LiLi)
 
-![gwtboot-logo-dark](gwtboot-logo-dark.png)
+<img src="gwtboot-logo-dark.png" width="50">
 
 GWT Boot Awesome Library List (LiLi) - Collection of JavaScript Libraries with JsInterop Interfaces and others
 
@@ -13,10 +13,30 @@ GWT Boot Awesome Library List (LiLi) - Collection of JavaScript Libraries with J
 - [Game Engine](#game-engine)
 - [3D Library](#3d-library)
 - [Math Library](#math-library)
-- [Web Worker](web-worker)
-- [JsInterop Generator](jsinterop-generator)
-- [QR Scanner](qr-scanner)
-- [ZIP Files and LZMA Compression](zip-files-and-lzma-compression)
+- [Web Worker](#web-worker)
+- [JsInterop Generator](#jsinterop-generator)
+- [QR Scanner](#qr-scanner)
+- [ZIP Files and LZMA Compression](#zip-files-and-lzma-compression)
+- [File Saver](#file-saver)
+- [Payment](#payment)
+- [Web Sockets](#web-sockets)
+- [Promise and Future Library](#promise-and-future-library)
+- [RX Library](#rx-library)
+- [Caching Library](#caching-library)
+- [JQuery](#jquery)
+- [Dependency Injection](#dependency-injection)
+- [Node JS](#node-js)
+- [Router](#router)
+- [UI Framework](#ui-framework)
+- [Web APIs](#web-apis)
+- [Jackson Library](#jackson-library)
+- [Analytics](#analytics)
+- [Event Bus](#event-bus)
+- [Testing](#testing)
+- [REST Library](#rest-library)
+- [Validator](#validator)
+- [Auth](#auth)
+- [Support Library](#support-library)
 
 
 ## State Management
@@ -193,3 +213,4 @@ GWT Boot Awesome Library List (LiLi) - Collection of JavaScript Libraries with J
 - [org.jetbrains.annotations](https://github.com/realityforge/org.jetbrains.annotations) - A GWT/J2CL compatible org.jetbrains.annotations library
 - [javax.annotation](https://github.com/realityforge/javax.annotation) - A J2CL compatible javax.annotation library
 - [gwt-dnd](https://gitlab.com/vedenin/gwt-dnd) - Drag and drop library for GWT
+
