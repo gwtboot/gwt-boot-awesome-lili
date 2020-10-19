@@ -45,7 +45,7 @@ GWT Boot Awesome Library List (LiLi) - Collection of JavaScript Libraries with J
 
 ## 3D Library
 
-- [three4g]https://github.com/treblereel/three4g - 3D library based on [three.js](https://github.com/mrdoob/three.js) (JsInterop)
+- [three4g](https://github.com/treblereel/three4g) - 3D library based on [three.js](https://github.com/mrdoob/three.js) (JsInterop)
 - [gwt.threejs](https://gitlab.com/jnorthrup1/gwt.threejs) - 3D library based on [three.js](https://github.com/mrdoob/three.js) (JSNI)
 
 ## Math Library
@@ -145,8 +145,8 @@ GWT Boot Awesome Library List (LiLi) - Collection of JavaScript Libraries with J
 
 ## Web APIs
 
-web api | [web api](https://developer.mozilla.org/en-US/docs/Web/API) | [elemental2](https://github.com/google/elemental2) | JsInterop
-web api | [elemental2](https://github.com/google/elemental2) | [elemento](https://github.com/hal/elemento) | JsInterop
+- [elemental2](https://github.com/google/elemental2) - Web APIs based on [web api](https://developer.mozilla.org/en-US/docs/Web/API) (JsInterop)
+- [elemento](https://github.com/hal/elemento) - Web APIs based on [elemental2](https://github.com/google/elemental2) (JsInterop)
 
 ## Jackson Library
 
