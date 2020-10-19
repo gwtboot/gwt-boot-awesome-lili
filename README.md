@@ -1,4 +1,5 @@
 # Awesome Library List (LiLi)
+
 GWT Boot Awesome Library List (LiLi) - Collection of JavaScript Libraries with JsInterop Interfaces and others
 
 ## Contents
@@ -70,62 +71,63 @@ GWT Boot Awesome Library List (LiLi) - Collection of JavaScript Libraries with J
 - [gwt-qr-scanner](https://github.com/masterdany88/gwt-qr-scanner) - QR scanner based on [nimiq.qr-scanner](https://github.com/nimiq/qr-scanner) (JsInterop)
 - [gwt-qr-code](https://github.com/realityforge/gwt-qr-code) - GWT QR Code Generation 
 
-# ZIP Files and LZMA Compression
+## ZIP Files and LZMA Compression
+
 - [gwtjszip](https://github.com/ainslec/GWTJSZip) - Library for zip files based on [jszip](https://stuk.github.io/jszip) (JSNI)
 - [gwt-lzma](https://gitlab.com/ManfredTremmel/gwt-lzma) - Library for LZMA compression
 
-# File Saver
+## File Saver
 
 - [filesaver-js-gwt](https://github.com/ainslec/FileSaverJsGwt) - Library for saving files based on [filesaver-js](https://github.com/eligrey/FileSaver.js) (JSNI)
 
-# Payment
+## Payment
 
 - [paypalwithgwt](https://github.com/schube/paypalwithgwt) - Payment library for Paypal JS based on [paypal checkout js sdk](https://developer.paypal.com/docs/checkout/integrate) (JsInterop)
 - [gwt-stripe](https://github.com/ArcBees/gwt-stripe) - Payment library for Stripe JS based on [stripe js sdk](https://stripe.com/docs/js) (JSNI)
 
-# Web Sockets
+## Web Sockets
 
 - [webbit-gwt](https://github.com/niloc132/webbit-gwt) - Web sockets 
 - [gwt-socket.io](https://github.com/jumanor/gwt_socket.io) - Socket IO library based on [socket-io](https://socket.io) (JSNI)
 
-# Promise and Future Library
+## Promise and Future Library
 
 - [gwt-promises](https://github.com/jimmyfm/gwt-promises) - Promise library based on [promise.js](https://www.promisejs.org) (JsInterop)
 - [gwt-completablefuture](https://github.com/OneGeek/GWT-CompletableFuture) - Completable future library 
 - [gdeferred](https://github.com/reinert/gdeferred) - Promise library 
 
-# RX Library
+## RX Library
 
 - [rxjava-gwt](https://github.com/intendia-oss/rxjava-gwt) - Reactive library
 - [rxgwt](https://github.com/intendia-oss/rxgwt) - Reactive library
 
-# Caching Library
+## Caching Library
 
 - [gwt-cache-filter](https://github.com/realityforge/gwt-cache-filter) - A servlet filter that adds the appropriate http caching headers to GWT generated files based on *.cache.* and *.nocache.* naming patterns
 
-# JQuery
+## JQuery
 
 - [jqm4gwt](https://github.com/jqm4gwt/jqm4gwt) - JQuery mobile based on [jquery](https://jquery.com) (JSNI)
 - [gwtquery](https://github.com/ArcBees/gwtquery) - JQuery based on GWT 
 
-# Dependency Injection
+## Dependency Injection
 
 - [dagger2](https://dagger.dev)
 - [sting](https://sting-ioc.github.io) - A fast, easy to use, compile-time dependency injection toolkit
 - [crysknife](https://github.com/crysknife-io/crysknife)
 - [google-gin](https://github.com/gwtplus/google-gin)
 
-# Node JS
+## Node JS
 
 - [gwt-node](https://github.com/cretz/gwt-node) - Node JS based on [node.js](https://nodejs.org/en) (JSNI)
 
-# Router
+## Router
 
 - [mvp4g2](https://github.com/mvp4g/mvp4g2) - (JsInterop)
 - [nalu](https://github.com/NaluKit/nalu) - (JsInterop)
 - [router-fu](https://github.com/realityforge/router-fu) - A framework agnostic, state producing router (JsInterop)
 
-# UI Framework
+## UI Framework
 
 - [domino-ui](https://github.com/DominoKit/domino-ui) - UI framework based on [material design](https://material.io/design) (JsInterop)
 - [gwt-material](https://github.com/GwtMaterialDesign/gwt-material) - UI framework based on [material design](https://material.io/design) (JsInterop)
@@ -141,44 +143,45 @@ GWT Boot Awesome Library List (LiLi) - Collection of JavaScript Libraries with J
 - [gwt-theo](https://github.com/ArcBees/gwt-theo) - UI framework based on Salesforce [theo](https://github.com/salesforce-ux/theo) (JSNI)
 - [gwtbootstrap3](https://github.com/gwtbootstrap3/gwtbootstrap3) - UI framework based on [bootstrap](https://getbootstrap.com) (JSNI)
 
-# Web APIs
+## Web APIs
+
 web api | [web api](https://developer.mozilla.org/en-US/docs/Web/API) | [elemental2](https://github.com/google/elemental2) | JsInterop
 web api | [elemental2](https://github.com/google/elemental2) | [elemento](https://github.com/hal/elemento) | JsInterop
 
-# Jackson Library
+## Jackson Library
 
 jackson lib | - | [gwt-jackson](https://github.com/nmorel/gwt-jackson) | -
 https://github.com/treblereel/jackson-xml
 
-# Analytics
+## Analytics
 
 analytics lib | - | [universal-analytics](https://github.com/ArcBees/universal-analytics) | - 
 
-# Event Bus
+## Event Bus
 
 event bus | - | [gwteventbinder](https://github.com/google/gwteventbinder) | - 
 
-# Testing
+## Testing
 
 test mockito | - | [gwtmockito](https://github.com/google/gwtmockito) | - 
 test lib | - | [gwt-symbolmap](https://github.com/realityforge/gwt-symbolmap) | - | SymbolMap Support Library
 test lib | - | [grim](https://github.com/realityforge/grim) | - | Assert unexpected symbols are eliminated from output
 
-# REST Library
+## REST Library
 
 rest framework | - | [domino-rest](https://github.com/DominoKit/domino-rest) | JsInterop 
 rest framework | - | [resty-gwt](https://github.com/resty-gwt/resty-gwt) | JSNI 
 
-# Validator
+## Validator
 
 commons validator | - | [gwt-commons-validator](https://gitlab.com/ManfredTremmel/gwt-commons-validator) | -
 bean validators | - | [gwt-bean-validators](https://gitlab.com/ManfredTremmel/gwt-bean-validators) | -
 
-# Auth 
+## Auth 
 
 auth lib | [keycloak.js](https://www.npmjs.com/package/keycloak-js) | [gwt-keycloak](https://github.com/realityforge/gwt-keycloak) | JSNI | A keycloak authentication adapter
 
-# Support Library
+## Support Library
 
 commons lib | - | [gwt-commons-lang3](https://gitlab.com/ManfredTremmel/gwt-commons-lang3) | -
 commons codec | - | [gwt-commons-codec](https://gitlab.com/ManfredTremmel/gwt-commons-codec) | -
