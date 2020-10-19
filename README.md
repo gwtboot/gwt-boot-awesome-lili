@@ -150,43 +150,44 @@ GWT Boot Awesome Library List (LiLi) - Collection of JavaScript Libraries with J
 
 ## Jackson Library
 
-jackson lib | - | [gwt-jackson](https://github.com/nmorel/gwt-jackson) | -
-https://github.com/treblereel/jackson-xml
+- [gwt-jackson](https://github.com/nmorel/gwt-jackson) - Jackson library
+- [jackson-xml](https://github.com/treblereel/jackson-xml) - Jackson library
 
 ## Analytics
 
-analytics lib | - | [universal-analytics](https://github.com/ArcBees/universal-analytics) | - 
+- [universal-analytics](https://github.com/ArcBees/universal-analytics) - Analytics library 
 
 ## Event Bus
 
-event bus | - | [gwteventbinder](https://github.com/google/gwteventbinder) | - 
+- [gwteventbinder](https://github.com/google/gwteventbinder) - Simple event bus and very good one
 
 ## Testing
 
-test mockito | - | [gwtmockito](https://github.com/google/gwtmockito) | - 
-test lib | - | [gwt-symbolmap](https://github.com/realityforge/gwt-symbolmap) | - | SymbolMap Support Library
-test lib | - | [grim](https://github.com/realityforge/grim) | - | Assert unexpected symbols are eliminated from output
+- [gwtmockito](https://github.com/google/gwtmockito) - Test Mockito for GWT 
+- [gwt-symbolmap](https://github.com/realityforge/gwt-symbolmap) - SymbolMap Support Library
+- [grim](https://github.com/realityforge/grim) - Assert unexpected symbols are eliminated from output
 
 ## REST Library
 
-rest framework | - | [domino-rest](https://github.com/DominoKit/domino-rest) | JsInterop 
-rest framework | - | [resty-gwt](https://github.com/resty-gwt/resty-gwt) | JSNI 
+- [domino-rest](https://github.com/DominoKit/domino-rest) - REST framework (JsInterop) 
+- [resty-gwt](https://github.com/resty-gwt/resty-gwt) - REST framework (JSNI)
 
 ## Validator
 
-commons validator | - | [gwt-commons-validator](https://gitlab.com/ManfredTremmel/gwt-commons-validator) | -
-bean validators | - | [gwt-bean-validators](https://gitlab.com/ManfredTremmel/gwt-bean-validators) | -
+- [gwt-commons-validator](https://gitlab.com/ManfredTremmel/gwt-commons-validator) - Apache Library commons validator for GWT
+- [gwt-bean-validators](https://gitlab.com/ManfredTremmel/gwt-bean-validators) - Java Bean validators
 
 ## Auth 
 
-auth lib | [keycloak.js](https://www.npmjs.com/package/keycloak-js) | [gwt-keycloak](https://github.com/realityforge/gwt-keycloak) | JSNI | A keycloak authentication adapter
+- [gwt-keycloak](https://github.com/realityforge/gwt-keycloak) - A keycloak authentication adapter based on 
+[keycloak.js](https://www.npmjs.com/package/keycloak-js) (JSNI) 
 
 ## Support Library
 
-commons lib | - | [gwt-commons-lang3](https://gitlab.com/ManfredTremmel/gwt-commons-lang3) | -
-commons codec | - | [gwt-commons-codec](https://gitlab.com/ManfredTremmel/gwt-commons-codec) | -
-goodies utils | collection of js utils | [gwt-goodies](https://github.com/peruncs/gwt) | JsInterop
-support lib | - | [braincheck](https://github.com/realityforge/braincheck) | - | A GWT/J2CL invariant checking toolkit that is optimized out in production builds
-support lib | - | [org.jetbrains.annotations](https://github.com/realityforge/org.jetbrains.annotations) | - | A GWT/J2CL compatible org.jetbrains.annotations library
-support lib | - | [javax.annotation](https://github.com/realityforge/javax.annotation) | - | A J2CL compatible javax.annotation library
-drag and drop | - | [gwt-dnd](https://gitlab.com/vedenin/gwt-dnd) | -
+- [gwt-goodies](https://github.com/peruncs/gwt) - Collection of JS utility / small libraries (JsInterop)
+- [gwt-commons-lang3](https://gitlab.com/ManfredTremmel/gwt-commons-lang3) - Apache commons lang library for GWT
+- [gwt-commons-codec](https://gitlab.com/ManfredTremmel/gwt-commons-codec) - Apache commons codec library for GWT
+- [braincheck](https://github.com/realityforge/braincheck) - A GWT/J2CL invariant checking toolkit that is optimized out in production builds
+- [org.jetbrains.annotations](https://github.com/realityforge/org.jetbrains.annotations) - A GWT/J2CL compatible org.jetbrains.annotations library
+- [javax.annotation](https://github.com/realityforge/javax.annotation) - A J2CL compatible javax.annotation library
+- [gwt-dnd](https://gitlab.com/vedenin/gwt-dnd) - Drag and drop library for GWT
