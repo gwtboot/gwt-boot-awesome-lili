@@ -1,7 +1,8 @@
 # Library List for GWT / J2CL
 
-Category | JS Lib Name |  GWT Lib Name | JsInterop or JSNI
--------- | ----------- | ------------- | ----------------- 
+Category | JS Lib Name |  GWT Lib Name | JsInterop or JSNI | Description
+-------- | ----------- | ------------- | ----------------- | -----------
+state management | - | [arez](https://arez.github.io/) | JsInterop | Fast, easy state management library
 maps | [open-layers3](https://openlayers.org) | [gwt-ol](https://github.com/TDesjardins/gwt-ol) | JsInterop
 maps | [google maps](https://developers.google.com/maps/documentation) | [gwt-maps](https://github.com/branflake2267/GWT-Maps-V3-Api) | JSNI
 diagrams | [chart.js](https://www.chartjs.org) | [charba](https://github.com/pepstock-org/Charba) | JsInterop
@@ -12,6 +13,7 @@ graphics svg | - | [lib-gwt-svg](https://github.com/laaglu/lib-gwt-svg) | -
 graphics svg | [snap.svg](http://snapsvg.io) | [gwt-snapsvg](https://github.com/ArcBees/gwt-snapsvg) | JsInterop 
 game engine | [box2d](https://box2d.org) | [jbox2d](https://github.com/jbox2d/jbox2d) | - 
 3d library | [three.js](https://github.com/mrdoob/three.js) | [gwt.threejs](https://gitlab.com/jnorthrup1/gwt.threejs) | JSNI
+math lib | - | [vecmath](https://github.com/realityforge/vecmath) | JsInterop | A vector math library optimized for GWT/J2CL
 web-worker | - | [gwt-webworker](https://gitlab.com/ManfredTremmel/gwt-webworker) | JSNI
 web-worker | - | [gwtwwlinker](https://github.com/tomekziel/gwtwwlinker) | JSNI
 web-worker | - | [gwt-worker](https://github.com/gwtplus/gwt-worker) | JSNI
@@ -19,6 +21,7 @@ generator | - | [jsinterop-generator](https://github.com/google/jsinterop-genera
 generator | - | [webtack](https://github.com/realityforge/webtack) | JsInterop
 generator | - | [typescript2java](https://github.com/ltearno/typescript2java) | JsInterop
 qr scanner | [nimiq.qr-scanner](https://github.com/nimiq/qr-scanner) | [gwt-qr-scanner](https://github.com/masterdany88/gwt-qr-scanner) | JsInterop
+support lib | - | [gwt-qr-code](https://github.com/realityforge/gwt-qr-code) | - | GWT QR Code Generation
 zip files | [jszip](https://stuk.github.io/jszip) | [gwtjszip](https://github.com/ainslec/GWTJSZip) | JSNI
 lzma compression | - | [gwt-lzma](https://gitlab.com/ManfredTremmel/gwt-lzma) | -
 saving files | [filesaver-js](https://github.com/eligrey/FileSaver.js) | [filesaver-js-gwt](https://github.com/ainslec/FileSaverJsGwt) | JSNI
@@ -30,15 +33,19 @@ socket io | [socket-io](https://socket.io) | [gwt-socket.io](https://github.com/
 completable future | -| [gwt-completablefuture](https://github.com/OneGeek/GWT-CompletableFuture) | -
 promise lib | - | [gdeferred](https://github.com/reinert/gdeferred) | -
 promise lib | [promise.js](https://www.promisejs.org) | [gwt-promises](https://github.com/jimmyfm/gwt-promises) | JsInterop
+support lib | - | [gwt-serviceworker-linker](https://github.com/realityforge/gwt-serviceworker-linker) | JsInterop | A GWT linker that generates a serviceworker
+support lib | - | [gwt-cache-filter](https://github.com/realityforge/gwt-cache-filter) | - | A servlet filter that adds the appropriate http caching headers to GWT generated files based on *.cache.* and *.nocache.* naming patterns
 rx lib | - | [rxjava-gwt](https://github.com/intendia-oss/rxjava-gwt) | -
 rx lib | - | [rxgwt](https://github.com/intendia-oss/rxgwt) | -
 jquery mobile | [jquery](https://jquery.com) | [jqm4gwt](https://github.com/jqm4gwt/jqm4gwt) | JSNI
 jquery | [jquery](https://jquery.com) | [gwtquery](https://github.com/ArcBees/gwtquery) | JSNI
 dependency injection | - | [google-gin](https://github.com/gwtplus/google-gin) | -
 dependency injection | - | [dagger2](https://dagger.dev) | -
+dependency injection | - | [sting](https://sting-ioc.github.io/) | - | A fast, easy to use, compile-time dependency injection toolkit
 node.js | [node.js](https://nodejs.org/en) | [gwt-node](https://github.com/cretz/gwt-node) | JSNI
 router | - | [mvp4g2](https://github.com/mvp4g/mvp4g2) | JsInterop
 router | - | [nalu](https://github.com/NaluKit/nalu) | JsInterop
+router | - | [router-fu](https://github.com/realityforge/router-fu) | JsInterop | A framework agnostic, state producing router
 ui framework react | [react](https://reactjs.org) | [gwt-react](https://github.com/GWTReact/gwt-react) | JsInterop
 ui framework react | [react](https://reactjs.org) | [react4j](https://github.com/react4j/react4j.github.io) | JsInterop
 ui framework material design | [material design](https://material.io/design) | [domino-ui](https://github.com/DominoKit/domino-ui) | JsInterop
@@ -65,3 +72,9 @@ commons validator | - | [gwt-commons-validator](https://gitlab.com/ManfredTremme
 bean validators | - | [gwt-bean-validators](https://gitlab.com/ManfredTremmel/gwt-bean-validators) | -
 drag and drop | - | [gwt-dnd](https://gitlab.com/vedenin/gwt-dnd) | -
 html5 pushstate | - | [gwt-pushstate](https://gitlab.com/ManfredTremmel/gwt-pushstate) | -
+auth lib | [keycloak.js](https://www.npmjs.com/package/keycloak-js) | [gwt-keycloak](https://github.com/realityforge/gwt-keycloak) | JSNI | A keycloak authentication adapter
+test lib | - | [gwt-symbolmap](https://github.com/realityforge/gwt-symbolmap) | - | SymbolMap Support Library
+test lib | - | [grim](https://github.com/realityforge/grim) | - | Assert unexpected symbols are eliminated from output
+support lib | - | [braincheck](https://github.com/realityforge/braincheck) | - | A GWT/J2CL invariant checking toolkit that is optimized out in production builds
+support lib | - | [org.jetbrains.annotations](https://github.com/realityforge/org.jetbrains.annotations) | - | A GWT/J2CL compatible org.jetbrains.annotations library
+support lib | - | [javax.annotation](https://github.com/realityforge/javax.annotation) | - | A J2CL compatible javax.annotation library
