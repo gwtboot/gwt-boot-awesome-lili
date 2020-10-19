@@ -1,4 +1,4 @@
-# GWT Awesome Library List (LiLi)
+# GWT Awesome Library List (Gwit a LiLi)
 
 <img src="gwtboot-logo-dark.png" width="130">
 
