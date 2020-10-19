@@ -2,7 +2,7 @@
 
 <img src="gwtboot-logo-dark.png" width="130">
 
-GWT Boot Awesome Library List (LiLi) - Collection of JavaScript Libraries with JsInterop Interfaces and Others
+GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries with JsInterop Interfaces and Others
 
 # Contents
 
