@@ -96,50 +96,50 @@ GWT Boot Awesome Library List (LiLi) - Collection of JavaScript Libraries with J
 
 # RX Library
 
-rx lib | - | [rxjava-gwt](https://github.com/intendia-oss/rxjava-gwt) | -
-rx lib | - | [rxgwt](https://github.com/intendia-oss/rxgwt) | -
+- [rxjava-gwt](https://github.com/intendia-oss/rxjava-gwt) - Reactive library
+- [rxgwt](https://github.com/intendia-oss/rxgwt) - Reactive library
 
 # Caching Library
 
-support lib | - | [gwt-cache-filter](https://github.com/realityforge/gwt-cache-filter) | - | A servlet filter that adds the appropriate http caching headers to GWT generated files based on *.cache.* and *.nocache.* naming patterns
+- [gwt-cache-filter](https://github.com/realityforge/gwt-cache-filter) - A servlet filter that adds the appropriate http caching headers to GWT generated files based on *.cache.* and *.nocache.* naming patterns
 
 # JQuery
 
-jquery mobile | [jquery](https://jquery.com) | [jqm4gwt](https://github.com/jqm4gwt/jqm4gwt) | JSNI
-jquery | - | [gwtquery](https://github.com/ArcBees/gwtquery) | JSNI
+- [jqm4gwt](https://github.com/jqm4gwt/jqm4gwt) - JQuery mobile based on [jquery](https://jquery.com) (JSNI)
+- [gwtquery](https://github.com/ArcBees/gwtquery) - JQuery based on GWT 
 
 # Dependency Injection
 
-dependency injection | - | [google-gin](https://github.com/gwtplus/google-gin) | -
-dependency injection | - | [dagger2](https://dagger.dev) | -
-dependency injection | - | [sting](https://sting-ioc.github.io/) | - | A fast, easy to use, compile-time dependency injection toolkit
-
-crysknife -> https://github.com/crysknife-io/crysknife
+- [dagger2](https://dagger.dev)
+- [sting](https://sting-ioc.github.io) - A fast, easy to use, compile-time dependency injection toolkit
+- [crysknife](https://github.com/crysknife-io/crysknife)
+- [google-gin](https://github.com/gwtplus/google-gin)
 
 # Node JS
 
-node.js | [node.js](https://nodejs.org/en) | [gwt-node](https://github.com/cretz/gwt-node) | JSNI
+- [gwt-node](https://github.com/cretz/gwt-node) - Node JS based on [node.js](https://nodejs.org/en) (JSNI)
 
 # Router
 
-router | - | [mvp4g2](https://github.com/mvp4g/mvp4g2) | JsInterop
-router | - | [nalu](https://github.com/NaluKit/nalu) | JsInterop
-router | - | [router-fu](https://github.com/realityforge/router-fu) | JsInterop | A framework agnostic, state producing router
+- [mvp4g2](https://github.com/mvp4g/mvp4g2) - (JsInterop)
+- [nalu](https://github.com/NaluKit/nalu) - (JsInterop)
+- [router-fu](https://github.com/realityforge/router-fu) - A framework agnostic, state producing router (JsInterop)
 
 # UI Framework
 
-ui framework react | [react](https://reactjs.org) | [gwt-react](https://github.com/GWTReact/gwt-react) | JsInterop
-ui framework react | [react](https://reactjs.org) | [react4j](https://github.com/react4j/react4j.github.io) | JsInterop
-ui framework material design | [material design](https://material.io/design) | [domino-ui](https://github.com/DominoKit/domino-ui) | JsInterop
-ui framework material design | [material design](https://material.io/design) | [gwt-material](https://github.com/GwtMaterialDesign/gwt-material) | JsInterop
-ui framework salesforce theo | [theo](https://github.com/salesforce-ux/theo) | [gwt-theo](https://github.com/ArcBees/gwt-theo) | JSNI
-ui framework angular2 | [angular](https://angular.io) | [angular2-gwt](https://github.com/ltearno/angular2-gwt) | JsInterop 
-ui framework | - | [html-ui-binder](https://github.com/RaHery/html-ui-binder) | -
-ui framework | - | [errai](https://github.com/errai/errai) | JSNI
-ui framework bootstrap | [bootstrap](https://getbootstrap.com) | [gwtbootstrap3](https://github.com/gwtbootstrap3/gwtbootstrap3) | JSNI
-ui framework bootstrap | [bootstrap](https://getbootstrap.com) | [gwtbootstrap3](https://github.com/treblereel/gwtbootstrap3) | JsInterop
-ui framework vuejs | [vuejs](https://vuejs.org) | [vue-gwt](https://github.com/VueGWT/vue-gwt) | JsInterop
-ui framework bootstrap and material design | [bootstrap](https://getbootstrap.com) and [material design](https://material.io/design) | [dncomponents](https://dncomponents.com/index.html) | JsInterop
+- [domino-ui](https://github.com/DominoKit/domino-ui) - UI framework based on [material design](https://material.io/design) (JsInterop)
+- [gwt-material](https://github.com/GwtMaterialDesign/gwt-material) - UI framework based on [material design](https://material.io/design) (JsInterop)
+- [gwt-react](https://github.com/GWTReact/gwt-react) - UI franework based on [react](https://reactjs.org) (JsInterop)
+- [react4j](https://github.com/react4j/react4j.github.io) - UI franework based on [react](https://reactjs.org) (JsInterop)
+- [gwtbootstrap3](https://github.com/treblereel/gwtbootstrap3) - UI framework based on [bootstrap](https://getbootstrap.com) (JsInterop)
+- [vue-gwt](https://github.com/VueGWT/vue-gwt) - UI framework based on [vuejs](https://vuejs.org) (JsInterop)
+- [dncomponents](https://dncomponents.com/index.html) - UI framework based on [bootstrap](https://getbootstrap.com) and 
+[material design](https://material.io/design) (JsInterop)
+- [angular2-gwt](https://github.com/ltearno/angular2-gwt) - UI framework based on [angular](https://angular.io) (JsInterop) 
+- [html-ui-binder](https://github.com/RaHery/html-ui-binder) - UI framework for UI Binder but with HTML
+- [errai](https://github.com/errai/errai) - UI framework based on JavaEE (JSNI)
+- [gwt-theo](https://github.com/ArcBees/gwt-theo) - UI framework based on Salesforce [theo](https://github.com/salesforce-ux/theo) (JSNI)
+- [gwtbootstrap3](https://github.com/gwtbootstrap3/gwtbootstrap3) - UI framework based on [bootstrap](https://getbootstrap.com) (JSNI)
 
 # Web APIs
 web api | [web api](https://developer.mozilla.org/en-US/docs/Web/API) | [elemental2](https://github.com/google/elemental2) | JsInterop
@@ -155,6 +155,7 @@ https://github.com/treblereel/jackson-xml
 analytics lib | - | [universal-analytics](https://github.com/ArcBees/universal-analytics) | - 
 
 # Event Bus
+
 event bus | - | [gwteventbinder](https://github.com/google/gwteventbinder) | - 
 
 # Testing
@@ -168,12 +169,10 @@ test lib | - | [grim](https://github.com/realityforge/grim) | - | Assert unexpec
 rest framework | - | [domino-rest](https://github.com/DominoKit/domino-rest) | JsInterop 
 rest framework | - | [resty-gwt](https://github.com/resty-gwt/resty-gwt) | JSNI 
 
+# Validator
 
-commons lib | - | [gwt-commons-lang3](https://gitlab.com/ManfredTremmel/gwt-commons-lang3) | -
-commons codec | - | [gwt-commons-codec](https://gitlab.com/ManfredTremmel/gwt-commons-codec) | -
 commons validator | - | [gwt-commons-validator](https://gitlab.com/ManfredTremmel/gwt-commons-validator) | -
 bean validators | - | [gwt-bean-validators](https://gitlab.com/ManfredTremmel/gwt-bean-validators) | -
-drag and drop | - | [gwt-dnd](https://gitlab.com/vedenin/gwt-dnd) | -
 
 # Auth 
 
@@ -181,7 +180,10 @@ auth lib | [keycloak.js](https://www.npmjs.com/package/keycloak-js) | [gwt-keycl
 
 # Support Library
 
+commons lib | - | [gwt-commons-lang3](https://gitlab.com/ManfredTremmel/gwt-commons-lang3) | -
+commons codec | - | [gwt-commons-codec](https://gitlab.com/ManfredTremmel/gwt-commons-codec) | -
 goodies utils | collection of js utils | [gwt-goodies](https://github.com/peruncs/gwt) | JsInterop
 support lib | - | [braincheck](https://github.com/realityforge/braincheck) | - | A GWT/J2CL invariant checking toolkit that is optimized out in production builds
 support lib | - | [org.jetbrains.annotations](https://github.com/realityforge/org.jetbrains.annotations) | - | A GWT/J2CL compatible org.jetbrains.annotations library
 support lib | - | [javax.annotation](https://github.com/realityforge/javax.annotation) | - | A J2CL compatible javax.annotation library
+drag and drop | - | [gwt-dnd](https://gitlab.com/vedenin/gwt-dnd) | -
