@@ -1,4 +1,4 @@
-# gwt-boot-jsinterop-lili
+# Awesome Library List (LiLi)
 GWT Boot JsInterop Library List (LiLi) - Collection of JavaScript Libraries with JsInterop Interfaces
 
 The Library List (LiLi) is managed in this file: [Library List](library-list.md)
