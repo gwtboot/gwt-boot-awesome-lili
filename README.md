@@ -49,14 +49,18 @@ GWT Boot Awesome Library List (LiLi) - Collection of JavaScript Libraries with J
 
 ## Web Worker
 
-web-worker | - | [gwt-webworker](https://gitlab.com/ManfredTremmel/gwt-webworker) | JSNI
-web-worker | - | [gwtwwlinker](https://github.com/tomekziel/gwtwwlinker) | JSNI
-web-worker | - | [gwt-worker](https://github.com/gwtplus/gwt-worker) | JSNI
+- [gwt-webworker](https://gitlab.com/ManfredTremmel/gwt-webworker) - Web worker lib (JSNI)
+- [gwtwwlinker](https://github.com/tomekziel/gwtwwlinker) - Web worker lib (JSNI)
+- [gwt-worker](https://github.com/gwtplus/gwt-worker) - Web worker lib (JSNI)
 
 
-generator | - | [jsinterop-generator](https://github.com/google/jsinterop-generator) | JsInterop
-generator | - | [webtack](https://github.com/realityforge/webtack) | JsInterop
-generator | - | [typescript2java](https://github.com/ltearno/typescript2java) | JsInterop
+## Generator
+
+- [jsinterop-generator](https://github.com/google/jsinterop-generator) - Generator to generate JsInterop files from Clousure
+- [webtack](https://github.com/realityforge/webtack) - Generator to generate JsInterop files from Web APIs specification
+- [typescript2java](https://github.com/ltearno/typescript2java) - Generator to generate JsInterop files from TypeScript
+
+## QR Scanner
 
 qr scanner | [nimiq.qr-scanner](https://github.com/nimiq/qr-scanner) | [gwt-qr-scanner](https://github.com/masterdany88/gwt-qr-scanner) | JsInterop
 support lib | - | [gwt-qr-code](https://github.com/realityforge/gwt-qr-code) | - | GWT QR Code Generation
