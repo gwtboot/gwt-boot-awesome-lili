@@ -1,8 +1,10 @@
-# Awesome Library List (LiLi)
+# GWT Awesome Library List (LiLi)
+
+![gwtboot-logo-dark](gwtboot-logo-dark.png)
 
 GWT Boot Awesome Library List (LiLi) - Collection of JavaScript Libraries with JsInterop Interfaces and others
 
-## Contents
+# Contents
 
 - [State Management](#state-management)
 - [Maps](#maps)
