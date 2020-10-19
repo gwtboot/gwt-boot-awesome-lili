@@ -19,6 +19,7 @@ GWT Boot Awesome Library List (LiLi) - Collection of JavaScript Libraries with J
 ## State Management
 
 - [arez](https://arez.github.io) - Fast, easy state management library (JsInterop)
+- [gwt-pushstate](https://gitlab.com/ManfredTremmel/gwt-pushstate) - HTML5 push state library
 
 ## Maps
 
@@ -37,7 +38,6 @@ GWT Boot Awesome Library List (LiLi) - Collection of JavaScript Libraries with J
 - [gwt-snapsvg](https://github.com/ArcBees/gwt-snapsvg) - SVG library based on [snap.svg](http://snapsvg.io) (JsInterop)
 - [lib-gwt-svg](https://github.com/laaglu/lib-gwt-svg) - SVG library 
 
-
 ## Game Engine
 
 - [jbox2d](https://github.com/jbox2d/jbox2d) - Game engine 2D based on [box2d](https://box2d.org)
@@ -54,6 +54,7 @@ GWT Boot Awesome Library List (LiLi) - Collection of JavaScript Libraries with J
 
 ## Web Worker
 
+- [gwt-serviceworker-linker](https://github.com/realityforge/gwt-serviceworker-linker) - A GWT linker that generates a serviceworker (JsInterop)
 - [gwt-webworker](https://gitlab.com/ManfredTremmel/gwt-webworker) - Web worker lib (JSNI)
 - [gwtwwlinker](https://github.com/tomekziel/gwtwwlinker) - Web worker lib (JSNI)
 - [gwt-worker](https://github.com/gwtplus/gwt-worker) - Web worker lib (JSNI)
@@ -70,39 +71,63 @@ GWT Boot Awesome Library List (LiLi) - Collection of JavaScript Libraries with J
 - [gwt-qr-code](https://github.com/realityforge/gwt-qr-code) - GWT QR Code Generation 
 
 # ZIP Files and LZMA Compression
+- [gwtjszip](https://github.com/ainslec/GWTJSZip) - Library for zip files based on [jszip](https://stuk.github.io/jszip) (JSNI)
+- [gwt-lzma](https://gitlab.com/ManfredTremmel/gwt-lzma) - Library for LZMA compression
 
-zip files | [jszip](https://stuk.github.io/jszip) | [gwtjszip](https://github.com/ainslec/GWTJSZip) | JSNI
-lzma compression | - | [gwt-lzma](https://gitlab.com/ManfredTremmel/gwt-lzma) | -
+# File Saver
 
-saving files | [filesaver-js](https://github.com/eligrey/FileSaver.js) | [filesaver-js-gwt](https://github.com/ainslec/FileSaverJsGwt) | JSNI
-goodies utils | collection of js utils | [gwt-goodies](https://github.com/peruncs/gwt) | JsInterop
+- [filesaver-js-gwt](https://github.com/ainslec/FileSaverJsGwt) - Library for saving files based on [filesaver-js](https://github.com/eligrey/FileSaver.js) (JSNI)
 
-payment paypal js | [paypal checkout js sdk](https://developer.paypal.com/docs/checkout/integrate) | [paypalwithgwt](https://github.com/schube/paypalwithgwt) | JsInterop
-payment stripe js | [stripe js sdk](https://stripe.com/docs/js) | [gwt-stripe](https://github.com/ArcBees/gwt-stripe) | JSNI
+# Payment
 
-web-sockets | - | [webbit-gwt](https://github.com/niloc132/webbit-gwt) | -
-socket io | [socket-io](https://socket.io) | [gwt-socket.io](https://github.com/jumanor/gwt_socket.io) | JSNI
+- [paypalwithgwt](https://github.com/schube/paypalwithgwt) - Payment library for Paypal JS based on [paypal checkout js sdk](https://developer.paypal.com/docs/checkout/integrate) (JsInterop)
+- [gwt-stripe](https://github.com/ArcBees/gwt-stripe) - Payment library for Stripe JS based on [stripe js sdk](https://stripe.com/docs/js) (JSNI)
 
-completable future | -| [gwt-completablefuture](https://github.com/OneGeek/GWT-CompletableFuture) | -
-promise lib | - | [gdeferred](https://github.com/reinert/gdeferred) | -
-promise lib | [promise.js](https://www.promisejs.org) | [gwt-promises](https://github.com/jimmyfm/gwt-promises) | JsInterop
+# Web Sockets
 
-support lib | - | [gwt-serviceworker-linker](https://github.com/realityforge/gwt-serviceworker-linker) | JsInterop | A GWT linker that generates a serviceworker
-support lib | - | [gwt-cache-filter](https://github.com/realityforge/gwt-cache-filter) | - | A servlet filter that adds the appropriate http caching headers to GWT generated files based on *.cache.* and *.nocache.* naming patterns
+- [webbit-gwt](https://github.com/niloc132/webbit-gwt) - Web sockets 
+- [gwt-socket.io](https://github.com/jumanor/gwt_socket.io) - Socket IO library based on [socket-io](https://socket.io) (JSNI)
+
+# Promise and Future Library
+
+- [gwt-promises](https://github.com/jimmyfm/gwt-promises) - Promise library based on [promise.js](https://www.promisejs.org) (JsInterop)
+- [gwt-completablefuture](https://github.com/OneGeek/GWT-CompletableFuture) - Completable future library 
+- [gdeferred](https://github.com/reinert/gdeferred) - Promise library 
+
+# RX Library
 
 rx lib | - | [rxjava-gwt](https://github.com/intendia-oss/rxjava-gwt) | -
 rx lib | - | [rxgwt](https://github.com/intendia-oss/rxgwt) | -
 
+# Caching Library
+
+support lib | - | [gwt-cache-filter](https://github.com/realityforge/gwt-cache-filter) | - | A servlet filter that adds the appropriate http caching headers to GWT generated files based on *.cache.* and *.nocache.* naming patterns
+
+# JQuery
+
 jquery mobile | [jquery](https://jquery.com) | [jqm4gwt](https://github.com/jqm4gwt/jqm4gwt) | JSNI
 jquery | - | [gwtquery](https://github.com/ArcBees/gwtquery) | JSNI
+
+# Dependency Injection
 
 dependency injection | - | [google-gin](https://github.com/gwtplus/google-gin) | -
 dependency injection | - | [dagger2](https://dagger.dev) | -
 dependency injection | - | [sting](https://sting-ioc.github.io/) | - | A fast, easy to use, compile-time dependency injection toolkit
+
+crysknife -> https://github.com/crysknife-io/crysknife
+
+# Node JS
+
 node.js | [node.js](https://nodejs.org/en) | [gwt-node](https://github.com/cretz/gwt-node) | JSNI
+
+# Router
+
 router | - | [mvp4g2](https://github.com/mvp4g/mvp4g2) | JsInterop
 router | - | [nalu](https://github.com/NaluKit/nalu) | JsInterop
 router | - | [router-fu](https://github.com/realityforge/router-fu) | JsInterop | A framework agnostic, state producing router
+
+# UI Framework
+
 ui framework react | [react](https://reactjs.org) | [gwt-react](https://github.com/GWTReact/gwt-react) | JsInterop
 ui framework react | [react](https://reactjs.org) | [react4j](https://github.com/react4j/react4j.github.io) | JsInterop
 ui framework material design | [material design](https://material.io/design) | [domino-ui](https://github.com/DominoKit/domino-ui) | JsInterop
@@ -115,24 +140,48 @@ ui framework bootstrap | [bootstrap](https://getbootstrap.com) | [gwtbootstrap3]
 ui framework bootstrap | [bootstrap](https://getbootstrap.com) | [gwtbootstrap3](https://github.com/treblereel/gwtbootstrap3) | JsInterop
 ui framework vuejs | [vuejs](https://vuejs.org) | [vue-gwt](https://github.com/VueGWT/vue-gwt) | JsInterop
 ui framework bootstrap and material design | [bootstrap](https://getbootstrap.com) and [material design](https://material.io/design) | [dncomponents](https://dncomponents.com/index.html) | JsInterop
+
+# Web APIs
 web api | [web api](https://developer.mozilla.org/en-US/docs/Web/API) | [elemental2](https://github.com/google/elemental2) | JsInterop
 web api | [elemental2](https://github.com/google/elemental2) | [elemento](https://github.com/hal/elemento) | JsInterop
+
+# Jackson Library
+
 jackson lib | - | [gwt-jackson](https://github.com/nmorel/gwt-jackson) | -
+https://github.com/treblereel/jackson-xml
+
+# Analytics
+
 analytics lib | - | [universal-analytics](https://github.com/ArcBees/universal-analytics) | - 
+
+# Event Bus
 event bus | - | [gwteventbinder](https://github.com/google/gwteventbinder) | - 
+
+# Testing
+
 test mockito | - | [gwtmockito](https://github.com/google/gwtmockito) | - 
+test lib | - | [gwt-symbolmap](https://github.com/realityforge/gwt-symbolmap) | - | SymbolMap Support Library
+test lib | - | [grim](https://github.com/realityforge/grim) | - | Assert unexpected symbols are eliminated from output
+
+# REST Library
+
 rest framework | - | [domino-rest](https://github.com/DominoKit/domino-rest) | JsInterop 
 rest framework | - | [resty-gwt](https://github.com/resty-gwt/resty-gwt) | JSNI 
+
+
 commons lib | - | [gwt-commons-lang3](https://gitlab.com/ManfredTremmel/gwt-commons-lang3) | -
 commons codec | - | [gwt-commons-codec](https://gitlab.com/ManfredTremmel/gwt-commons-codec) | -
 commons validator | - | [gwt-commons-validator](https://gitlab.com/ManfredTremmel/gwt-commons-validator) | -
 bean validators | - | [gwt-bean-validators](https://gitlab.com/ManfredTremmel/gwt-bean-validators) | -
 drag and drop | - | [gwt-dnd](https://gitlab.com/vedenin/gwt-dnd) | -
-html5 pushstate | - | [gwt-pushstate](https://gitlab.com/ManfredTremmel/gwt-pushstate) | -
+
+# Auth 
+
 auth lib | [keycloak.js](https://www.npmjs.com/package/keycloak-js) | [gwt-keycloak](https://github.com/realityforge/gwt-keycloak) | JSNI | A keycloak authentication adapter
-test lib | - | [gwt-symbolmap](https://github.com/realityforge/gwt-symbolmap) | - | SymbolMap Support Library
-test lib | - | [grim](https://github.com/realityforge/grim) | - | Assert unexpected symbols are eliminated from output
+
+# Support Library
+
+goodies utils | collection of js utils | [gwt-goodies](https://github.com/peruncs/gwt) | JsInterop
 support lib | - | [braincheck](https://github.com/realityforge/braincheck) | - | A GWT/J2CL invariant checking toolkit that is optimized out in production builds
 support lib | - | [org.jetbrains.annotations](https://github.com/realityforge/org.jetbrains.annotations) | - | A GWT/J2CL compatible org.jetbrains.annotations library
 support lib | - | [javax.annotation](https://github.com/realityforge/javax.annotation) | - | A J2CL compatible javax.annotation library
-
