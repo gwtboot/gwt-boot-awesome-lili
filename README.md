@@ -9,6 +9,11 @@ GWT Boot Awesome Library List (LiLi) - Collection of JavaScript Libraries with J
 - [Graphics SVG](#graphics-svg)
 - [Game Engine](#game-engine)
 - [3D Library](#3d-library)
+- [Math Library](#math-library)
+- [Web Worker](web-worker)
+- [JsInterop Generator](jsinterop-generator)
+- [QR Scanner](qr-scanner)
+- [ZIP Files and LZMA Compression](zip-files-and-lzma-compression)
 
 
 ## State Management
@@ -53,8 +58,7 @@ GWT Boot Awesome Library List (LiLi) - Collection of JavaScript Libraries with J
 - [gwtwwlinker](https://github.com/tomekziel/gwtwwlinker) - Web worker lib (JSNI)
 - [gwt-worker](https://github.com/gwtplus/gwt-worker) - Web worker lib (JSNI)
 
-
-## Generator
+## JsInterop Generator
 
 - [jsinterop-generator](https://github.com/google/jsinterop-generator) - Generator to generate JsInterop files from Clousure
 - [webtack](https://github.com/realityforge/webtack) - Generator to generate JsInterop files from Web APIs specification
@@ -62,8 +66,10 @@ GWT Boot Awesome Library List (LiLi) - Collection of JavaScript Libraries with J
 
 ## QR Scanner
 
-qr scanner | [nimiq.qr-scanner](https://github.com/nimiq/qr-scanner) | [gwt-qr-scanner](https://github.com/masterdany88/gwt-qr-scanner) | JsInterop
-support lib | - | [gwt-qr-code](https://github.com/realityforge/gwt-qr-code) | - | GWT QR Code Generation
+- [gwt-qr-scanner](https://github.com/masterdany88/gwt-qr-scanner) - QR scanner based on [nimiq.qr-scanner](https://github.com/nimiq/qr-scanner) (JsInterop)
+- [gwt-qr-code](https://github.com/realityforge/gwt-qr-code) - GWT QR Code Generation 
+
+# ZIP Files and LZMA Compression
 
 zip files | [jszip](https://stuk.github.io/jszip) | [gwtjszip](https://github.com/ainslec/GWTJSZip) | JSNI
 lzma compression | - | [gwt-lzma](https://gitlab.com/ManfredTremmel/gwt-lzma) | -
