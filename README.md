@@ -206,9 +206,9 @@ application development easy to start with :sparkling_heart:
 
 ## Jackson Library
 
-- [gwt-jackson](https://github.com/nmorel/gwt-jackson) - Jackson library
 - [jackson-xml](https://github.com/treblereel/jackson-xml) - Jackson library :sparkling_heart:
 - [domino-jackson](https://github.com/DominoKit/domino-jackson) - Jackson library :sparkling_heart:
+- [gwt-jackson](https://github.com/nmorel/gwt-jackson) - Jackson library
 
 ## Analytics
 
