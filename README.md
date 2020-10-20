@@ -183,8 +183,7 @@ application development easy to start with :sparkling_heart:
 [material design](https://material.io/design) (JsInterop) :sparkling_heart:
 - [gwt-material](https://github.com/GwtMaterialDesign/gwt-material) - UI framework based on 
 [material design](https://material.io/design) (JsInterop) :sparkling_heart:
-- [gwt-react](https://github.com/GWTReact/gwt-react) - UI franework based on [react](https://reactjs.org) (JsInterop) 
-- [react4j](https://github.com/react4j/react4j.github.io) - UI franework based on 
+- [react4j](https://github.com/react4j/react4j.github.io) - UI framework based on 
 [react](https://reactjs.org) (JsInterop) :sparkling_heart:
 - [gwtbootstrap3](https://github.com/treblereel/gwtbootstrap3) - UI framework based on 
 [bootstrap](https://getbootstrap.com) (JsInterop) :sparkling_heart:
@@ -192,6 +191,7 @@ application development easy to start with :sparkling_heart:
 - [dncomponents](https://dncomponents.com/index.html) - UI framework based on [bootstrap](https://getbootstrap.com) and 
 [material design](https://material.io/design) (JsInterop) :sparkling_heart:
 - [errai](https://github.com/errai/errai) - UI framework based on JavaEE (JSNI) :sparkling_heart:
+- [gwt-react](https://github.com/GWTReact/gwt-react) - UI framework based on [react](https://reactjs.org) (JsInterop)
 - [angular2-gwt](https://github.com/ltearno/angular2-gwt) - UI framework based on [angular](https://angular.io) (JsInterop) 
 - [html-ui-binder](https://github.com/RaHery/html-ui-binder) - UI framework for UI Binder but with HTML
 - [gwt-theo](https://github.com/ArcBees/gwt-theo) - UI framework based on Salesforce [theo](https://github.com/salesforce-ux/theo) (JSNI)
