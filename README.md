@@ -2,8 +2,9 @@
 
 <img src="gwtboot-logo-dark.png" width="130">
 
-- GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries with JsInterop Interfaces and Others.
-- :sparkling_heart: means that the current library is supported by the author. 
+GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries with JsInterop Interfaces and Others.
+
+:sparkling_heart: means that the current library is supported by the author. 
 
 
 # Contents
