@@ -117,8 +117,10 @@ generates a serviceworker (JsInterop) :sparkling_heart:
 
 ## JsInterop Generator
 
-- [jsinterop-generator](https://github.com/google/jsinterop-generator) - Generator to generate JsInterop files from Clousure :sparkling_heart:
-- [webtack](https://github.com/realityforge/webtack) - Generator to generate JsInterop files from Web APIs specification :sparkling_heart:
+- [jsinterop-generator](https://github.com/google/jsinterop-generator) - Generator to generate JsInterop files from 
+Closure Extern files :sparkling_heart:
+- [webtack](https://github.com/realityforge/webtack) - Generator to generate JsInterop files from 
+Web APIs specification WebIDL :sparkling_heart:
 - [typescript2java](https://github.com/ltearno/typescript2java) - Generator to generate JsInterop files from TypeScript
 
 ## QR Scanner
