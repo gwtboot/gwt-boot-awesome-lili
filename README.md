@@ -55,6 +55,7 @@
 
 ## Starter
 
+- [gwt-maven-springboot-archetype](https://github.com/NaluKit/gwt-maven-springboot-archetype) - GWT Maven Spring Boot Archetype :sparkling_heart:
 - [gwt-boot-modules](https://github.com/gwtboot/gwt-boot-modules) - GWT Boot similar to Spring Boot makes your GWT app development 
 easy to start with :sparkling_heart:
 
