@@ -6,6 +6,8 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
 
 # Contents
 
+- [Maven Plugin](#maven-plugin)
+- [Gradle Plugin](#gradle-plugin)
 - [State Management](#state-management)
 - [Maps](#maps)
 - [Diagrams](#diagrams)
@@ -37,6 +39,16 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
 - [Validator](#validator)
 - [Auth](#auth)
 - [Support Library](#support-library)
+
+## Maven Plugin
+
+- [gwt-maven-plugin](https://tbroyer.github.io/gwt-maven-plugin) - Maven plugin for GWT :green_heart:
+
+## Gradle Plugin
+
+- [gwt-gradle-plugin](https://github.com/esoco/gwt-gradle-plugin) - Gradle plugin for GWT
+- [gwt-gradle-plugin](https://github.com/jiakuan/gwt-gradle-plugin) - Gradle plugin for GWT
+- [gwt-gradle](https://github.com/ascendtech/gwt-gradle) - Gradle plugin for GWT
 
 
 ## State Management
