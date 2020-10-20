@@ -73,7 +73,7 @@ application development easy to start with :sparkling_heart:
 
 ## Maps
 
-- [gwt-ol](https://github.com/TDesjardins/gwt-ol) - Maps library based on [open-layers3](https://openlayers.org) (JsInterop)
+- [gwt-ol](https://github.com/TDesjardins/gwt-ol) - Maps library based on [open-layers3](https://openlayers.org) (JsInterop) :sparkling_heart:
 - [gwt-maps](https://github.com/branflake2267/GWT-Maps-V3-Api) - Maps library based on [google maps](https://developers.google.com/maps/documentation) (JSNI)
 
 ## Diagrams
