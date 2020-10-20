@@ -4,8 +4,12 @@
 
 GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries with JsInterop Interfaces and Others.
 
-:sparkling_heart: means that the current library is supported by the author. 
+# Supported Libraries and Frameworks
 
+- :sparkling_heart: means that the current library is supported by the author. 
+- If you want to add the :sparkling_heart: to your libraries or frameworks you can do this in two ways:
+-- Create a Pull Request to add the :sparkling_heart: at the end of your libraries or frameworks line.
+-- Create an issue to tell us that you supports your current libraries or frameworks.
 
 # Contents
 
