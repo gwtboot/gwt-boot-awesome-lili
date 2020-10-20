@@ -14,7 +14,7 @@
 - [State Management](#state-management)
 - [Maps](#maps)
 - [Diagrams](#diagrams)
-- [Graphics SVG](#graphics-svg)
+- [Graphics](#graphics)
 - [Game Engine](#game-engine)
 - [3D Library](#3d-library)
 - [Math Library](#math-library)
@@ -53,7 +53,6 @@
 - [gwt-gradle-plugin](https://github.com/jiakuan/gwt-gradle-plugin) - Gradle plugin for GWT
 - [gwt-gradle](https://github.com/ascendtech/gwt-gradle) - Gradle plugin for GWT
 
-
 ## Starter
 
 - [gwt-boot-modules](https://github.com/gwtboot/gwt-boot-modules) - GWT Boot similar to Spring Boot makes your GWT app development 
@@ -76,10 +75,11 @@ easy to start with :sparkling_heart:
 - [d3js](https://d3js.org) - Chart library based on [gwt-d3](https://github.com/gwtd3/gwt-d3) (JsInterop)
 - [gwt-chartjs](https://github.com/sidney3172/gwt-chartjs) - Chart library based on [chart.js](https://www.chartjs.org) (JSNI)
 
-## Graphics SVG
+## Graphics
 
 - [gwt-snapsvg](https://github.com/ArcBees/gwt-snapsvg) - SVG library based on [snap.svg](http://snapsvg.io) (JsInterop)
 - [lib-gwt-svg](https://github.com/laaglu/lib-gwt-svg) - SVG library 
+- [lienzo-core](https://github.com/dikalo/lienzo-core) - Graphics library for GWT
 
 ## Game Engine
 
@@ -165,7 +165,7 @@ easy to start with :sparkling_heart:
 
 ## Router
 
-- [mvp4g2](https://github.com/mvp4g/mvp4g2) - (JsInterop) 
+- [mvp4g2](https://github.com/mvp4g/mvp4g2) - (JsInterop) :sparkling_heart:
 - [nalu](https://github.com/NaluKit/nalu) - (JsInterop) :sparkling_heart:
 - [router-fu](https://github.com/realityforge/router-fu) - A framework agnostic, state producing router (JsInterop) :sparkling_heart:
 
