@@ -8,7 +8,7 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
 # Supported Libraries and Frameworks
 
 - If you want to add your libraries and frameworks just make a Pull Request or create an Issue.
-- :sparkling_heart: means that the current library is supported by the author. 
+- :sparkling_heart: means that the current library is supported by the author of that library. 
 - If you want to add the :sparkling_heart: to your libraries or frameworks you can do this in two ways:
   - Create a Pull Request to add the :sparkling_heart: at the end of your libraries or frameworks line.
   - Create an Issue to tell us that you supports your current libraries or frameworks.
@@ -20,36 +20,36 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
 - [Gradle Plugin](#gradle-plugin)
 - [Starter](#starter)
 - [Dependency Injection](#dependency-injection)
+- [Web APIs](#web-apis)
+- [UI Framework](#ui-framework)
+- [Router](#router)
+- [State Management](#state-management)
+- [Testing](#testing)
 - [Maps](#maps)
 - [Diagrams](#diagrams)
 - [Graphics](#graphics)
 - [Game Engine](#game-engine)
 - [3D Library](#3d-library)
 - [Math Library](#math-library)
-- [Web Worker](#web-worker)
-- [JsInterop Generator](#jsinterop-generator)
 - [QR Scanner](#qr-scanner)
 - [ZIP Files and LZMA Compression](#zip-files-and-lzma-compression)
 - [File Saver](#file-saver)
 - [Payment](#payment)
+- [Web Worker](#web-worker)
 - [Web Sockets](#web-sockets)
 - [Promise and Future Library](#promise-and-future-library)
 - [Reactive Library](#reactive-library)
 - [Caching Library](#caching-library)
 - [JQuery](#jquery)
 - [Node JS](#node-js)
-- [Router](#router)
-- [State Management](#state-management)
-- [UI Framework](#ui-framework)
-- [Web APIs](#web-apis)
-- [Jackson Library](#jackson-library)
-- [Analytics](#analytics)
-- [Event Bus](#event-bus)
-- [Testing](#testing)
 - [REST Library](#rest-library)
+- [Jackson Library](#jackson-library)
 - [Validator](#validator)
+- [Event Bus](#event-bus)
+- [Analytics](#analytics)
 - [Auth](#auth)
 - [Miscellaneous Library](#miscellaneous-library)
+- [JsInterop Generator](#jsinterop-generator)
 
 
 ## Maven Plugin
@@ -76,6 +76,51 @@ application development easy to start with :sparkling_heart:
 - [sting](https://sting-ioc.github.io) - A fast, easy to use, compile-time dependency injection toolkit :sparkling_heart:
 - [crysknife](https://github.com/crysknife-io/crysknife) :sparkling_heart:
 - [google-gin](https://github.com/gwtplus/google-gin)
+
+## Web APIs
+
+- [elemental2](https://github.com/google/elemental2) - Web APIs based on 
+[web api](https://developer.mozilla.org/en-US/docs/Web/API) (JsInterop) :sparkling_heart:
+- [elemento](https://github.com/hal/elemento) - Web APIs based on 
+[elemental2](https://github.com/google/elemental2) (JsInterop) :sparkling_heart:
+- [webtack](https://github.com/realityforge/webtack) - Web APIs based on WebTack [elemental3](https://github.com/realityforge/webtack/tree/master/elemental3) :sparkling_heart:
+
+## UI Framework
+
+- [domino-ui](https://github.com/DominoKit/domino-ui) - UI framework based on 
+[material design](https://material.io/design) (JsInterop) :sparkling_heart:
+- [gwt-material](https://github.com/GwtMaterialDesign/gwt-material) - UI framework based on 
+[material design](https://material.io/design) (JsInterop) :sparkling_heart:
+- [react4j](https://github.com/react4j/react4j.github.io) - UI framework based on 
+[react](https://reactjs.org) (JsInterop) :sparkling_heart:
+- [gwtbootstrap3](https://github.com/treblereel/gwtbootstrap3) - UI framework based on 
+[bootstrap](https://getbootstrap.com) (JsInterop) :sparkling_heart:
+- [vue-gwt](https://github.com/VueGWT/vue-gwt) - UI framework based on [vuejs](https://vuejs.org) (JsInterop) :sparkling_heart:
+- [dncomponents](https://dncomponents.com/index.html) - UI framework based on [bootstrap](https://getbootstrap.com) and 
+[material design](https://material.io/design) (JsInterop) :sparkling_heart:
+- [errai](https://github.com/errai/errai) - UI framework based on JavaEE (JSNI) :sparkling_heart:
+- [gwt-react](https://github.com/GWTReact/gwt-react) - UI framework based on [react](https://reactjs.org) (JsInterop)
+- [angular2-gwt](https://github.com/ltearno/angular2-gwt) - UI framework based on [angular](https://angular.io) (JsInterop) 
+- [html-ui-binder](https://github.com/RaHery/html-ui-binder) - UI framework for UI Binder but with HTML
+- [gwt-theo](https://github.com/ArcBees/gwt-theo) - UI framework based on Salesforce [theo](https://github.com/salesforce-ux/theo) (JSNI)
+- [gwtbootstrap3](https://github.com/gwtbootstrap3/gwtbootstrap3) - UI framework based on [bootstrap](https://getbootstrap.com) (JSNI)
+
+## Router
+
+- [mvp4g2](https://github.com/mvp4g/mvp4g2) - (JsInterop) :sparkling_heart:
+- [nalu](https://github.com/NaluKit/nalu) - (JsInterop) :sparkling_heart:
+- [router-fu](https://github.com/realityforge/router-fu) - A framework agnostic, state producing router (JsInterop) :sparkling_heart:
+
+## State Management
+
+- [arez](https://arez.github.io) - Fast, easy state management library (JsInterop) :sparkling_heart:
+- [gwt-pushstate](https://gitlab.com/ManfredTremmel/gwt-pushstate) - HTML5 push state library
+
+## Testing
+
+- [gwtmockito](https://github.com/google/gwtmockito) - Test Mockito for GWT :sparkling_heart:
+- [gwt-symbolmap](https://github.com/realityforge/gwt-symbolmap) - SymbolMap Support Library :sparkling_heart:
+- [grim](https://github.com/realityforge/grim) - Assert unexpected symbols are eliminated from output :sparkling_heart:
 
 ## Maps
 
@@ -109,22 +154,6 @@ application development easy to start with :sparkling_heart:
 - [vecmath](https://github.com/realityforge/vecmath) - A vector math library optimized for GWT/J2CL (JsInterop) :sparkling_heart:
 - [gwt-bigmath](https://github.com/treblereel/gwt-bigmath) - A big math library (JsInterop) :sparkling_heart:
 
-## Web Worker
-
-- [gwt-serviceworker-linker](https://github.com/realityforge/gwt-serviceworker-linker) - A GWT linker that 
-generates a serviceworker (JsInterop) :sparkling_heart:
-- [gwt-webworker](https://gitlab.com/ManfredTremmel/gwt-webworker) - Web worker lib (JSNI)
-- [gwtwwlinker](https://github.com/tomekziel/gwtwwlinker) - Web worker lib (JSNI)
-- [gwt-worker](https://github.com/gwtplus/gwt-worker) - Web worker lib (JSNI)
-
-## JsInterop Generator
-
-- [jsinterop-generator](https://github.com/google/jsinterop-generator) - Generator to generate JsInterop files from 
-Closure Extern files :sparkling_heart:
-- [webtack](https://github.com/realityforge/webtack) - Generator to generate JsInterop files from 
-Web APIs specification WebIDL :sparkling_heart:
-- [typescript2java](https://github.com/ltearno/typescript2java) - Generator to generate JsInterop files from TypeScript
-
 ## QR Scanner
 
 - [gwt-qr-scanner](https://github.com/masterdany88/gwt-qr-scanner) - QR scanner based on [nimiq.qr-scanner](https://github.com/nimiq/qr-scanner) (JsInterop)
@@ -143,6 +172,14 @@ Web APIs specification WebIDL :sparkling_heart:
 
 - [paypalwithgwt](https://github.com/schube/paypalwithgwt) - Payment library for Paypal JS based on [paypal checkout js sdk](https://developer.paypal.com/docs/checkout/integrate) (JsInterop)
 - [gwt-stripe](https://github.com/ArcBees/gwt-stripe) - Payment library for Stripe JS based on [stripe js sdk](https://stripe.com/docs/js) (JSNI)
+
+## Web Worker
+
+- [gwt-serviceworker-linker](https://github.com/realityforge/gwt-serviceworker-linker) - A GWT linker that 
+generates a serviceworker (JsInterop) :sparkling_heart:
+- [gwt-webworker](https://gitlab.com/ManfredTremmel/gwt-webworker) - Web worker lib (JSNI)
+- [gwtwwlinker](https://github.com/tomekziel/gwtwwlinker) - Web worker lib (JSNI)
+- [gwt-worker](https://github.com/gwtplus/gwt-worker) - Web worker lib (JSNI)
 
 ## Web Sockets
 
@@ -173,44 +210,10 @@ Web APIs specification WebIDL :sparkling_heart:
 
 - [gwt-node](https://github.com/cretz/gwt-node) - Node JS based on [node.js](https://nodejs.org/en) (JSNI)
 
-## Router
+## REST Library
 
-- [mvp4g2](https://github.com/mvp4g/mvp4g2) - (JsInterop) :sparkling_heart:
-- [nalu](https://github.com/NaluKit/nalu) - (JsInterop) :sparkling_heart:
-- [router-fu](https://github.com/realityforge/router-fu) - A framework agnostic, state producing router (JsInterop) :sparkling_heart:
-
-## State Management
-
-- [arez](https://arez.github.io) - Fast, easy state management library (JsInterop) :sparkling_heart:
-- [gwt-pushstate](https://gitlab.com/ManfredTremmel/gwt-pushstate) - HTML5 push state library
-
-## UI Framework
-
-- [domino-ui](https://github.com/DominoKit/domino-ui) - UI framework based on 
-[material design](https://material.io/design) (JsInterop) :sparkling_heart:
-- [gwt-material](https://github.com/GwtMaterialDesign/gwt-material) - UI framework based on 
-[material design](https://material.io/design) (JsInterop) :sparkling_heart:
-- [react4j](https://github.com/react4j/react4j.github.io) - UI framework based on 
-[react](https://reactjs.org) (JsInterop) :sparkling_heart:
-- [gwtbootstrap3](https://github.com/treblereel/gwtbootstrap3) - UI framework based on 
-[bootstrap](https://getbootstrap.com) (JsInterop) :sparkling_heart:
-- [vue-gwt](https://github.com/VueGWT/vue-gwt) - UI framework based on [vuejs](https://vuejs.org) (JsInterop) :sparkling_heart:
-- [dncomponents](https://dncomponents.com/index.html) - UI framework based on [bootstrap](https://getbootstrap.com) and 
-[material design](https://material.io/design) (JsInterop) :sparkling_heart:
-- [errai](https://github.com/errai/errai) - UI framework based on JavaEE (JSNI) :sparkling_heart:
-- [gwt-react](https://github.com/GWTReact/gwt-react) - UI framework based on [react](https://reactjs.org) (JsInterop)
-- [angular2-gwt](https://github.com/ltearno/angular2-gwt) - UI framework based on [angular](https://angular.io) (JsInterop) 
-- [html-ui-binder](https://github.com/RaHery/html-ui-binder) - UI framework for UI Binder but with HTML
-- [gwt-theo](https://github.com/ArcBees/gwt-theo) - UI framework based on Salesforce [theo](https://github.com/salesforce-ux/theo) (JSNI)
-- [gwtbootstrap3](https://github.com/gwtbootstrap3/gwtbootstrap3) - UI framework based on [bootstrap](https://getbootstrap.com) (JSNI)
-
-## Web APIs
-
-- [elemental2](https://github.com/google/elemental2) - Web APIs based on 
-[web api](https://developer.mozilla.org/en-US/docs/Web/API) (JsInterop) :sparkling_heart:
-- [elemento](https://github.com/hal/elemento) - Web APIs based on 
-[elemental2](https://github.com/google/elemental2) (JsInterop) :sparkling_heart:
-- [webtack](https://github.com/realityforge/webtack) - Web APIs based on WebTack [elemental3](https://github.com/realityforge/webtack/tree/master/elemental3) :sparkling_heart:
+- [domino-rest](https://github.com/DominoKit/domino-rest) - REST framework (JsInterop) :sparkling_heart:
+- [resty-gwt](https://github.com/resty-gwt/resty-gwt) - REST framework (JSNI) :sparkling_heart:
 
 ## Jackson Library
 
@@ -218,31 +221,20 @@ Web APIs specification WebIDL :sparkling_heart:
 - [domino-jackson](https://github.com/DominoKit/domino-jackson) - Jackson library :sparkling_heart:
 - [gwt-jackson](https://github.com/nmorel/gwt-jackson) - Jackson library
 
-## Analytics
-
-- [universal-analytics](https://github.com/ArcBees/universal-analytics) - Analytics library 
-
-## Event Bus
-
-- [gwteventbinder](https://github.com/google/gwteventbinder) - Simple event bus and very good one :sparkling_heart:
-
-## Testing
-
-- [gwtmockito](https://github.com/google/gwtmockito) - Test Mockito for GWT :sparkling_heart:
-- [gwt-symbolmap](https://github.com/realityforge/gwt-symbolmap) - SymbolMap Support Library :sparkling_heart:
-- [grim](https://github.com/realityforge/grim) - Assert unexpected symbols are eliminated from output :sparkling_heart:
-
-## REST Library
-
-- [domino-rest](https://github.com/DominoKit/domino-rest) - REST framework (JsInterop) :sparkling_heart:
-- [resty-gwt](https://github.com/resty-gwt/resty-gwt) - REST framework (JSNI) :sparkling_heart:
-
 ## Validator
 
 - [gwt-commons-validator](https://gitlab.com/ManfredTremmel/gwt-commons-validator) - Apache Library commons 
 validator for GWT :sparkling_heart:
 - [gwt-bean-validators](https://gitlab.com/ManfredTremmel/gwt-bean-validators) - Java Bean 
 validators :sparkling_heart:
+
+## Event Bus
+
+- [gwteventbinder](https://github.com/google/gwteventbinder) - Simple event bus and very good one :sparkling_heart:
+
+## Analytics
+
+- [universal-analytics](https://github.com/ArcBees/universal-analytics) - Analytics library 
 
 ## Auth 
 
@@ -254,10 +246,17 @@ validators :sparkling_heart:
 - [gwt-commons-lang3](https://gitlab.com/ManfredTremmel/gwt-commons-lang3) - Apache commons lang library for GWT :sparkling_heart:
 - [gwt-commons-codec](https://gitlab.com/ManfredTremmel/gwt-commons-codec) - Apache commons codec library for GWT :sparkling_heart:
 - [braincheck](https://github.com/realityforge/braincheck) - A GWT/J2CL invariant checking toolkit that is optimized out in 
-production builds
+production builds :sparkling_heart:
 - [org.jetbrains.annotations](https://github.com/realityforge/org.jetbrains.annotations) - A GWT/J2CL compatible 
-org.jetbrains.annotations library
-- [javax.annotation](https://github.com/realityforge/javax.annotation) - A J2CL compatible javax.annotation library
+org.jetbrains.annotations library :sparkling_heart:
+- [javax.annotation](https://github.com/realityforge/javax.annotation) - A J2CL compatible javax.annotation library :sparkling_heart:
 - [gwt-goodies](https://github.com/peruncs/gwt) - Collection of JS utility / small libraries (JsInterop)
 - [gwt-dnd](https://gitlab.com/vedenin/gwt-dnd) - Drag and drop library for GWT
 
+## JsInterop Generator
+
+- [jsinterop-generator](https://github.com/google/jsinterop-generator) - Generator to generate JsInterop files from 
+Closure Extern files :sparkling_heart:
+- [webtack](https://github.com/realityforge/webtack) - Generator to generate JsInterop files from 
+Web APIs specification WebIDL :sparkling_heart:
+- [typescript2java](https://github.com/ltearno/typescript2java) - Generator to generate JsInterop files from TypeScript
