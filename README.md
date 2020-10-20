@@ -19,7 +19,7 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
 - [Maven Plugin](#maven-plugin)
 - [Gradle Plugin](#gradle-plugin)
 - [Starter](#starter)
-- [State Management](#state-management)
+- [Dependency Injection](#dependency-injection)
 - [Maps](#maps)
 - [Diagrams](#diagrams)
 - [Graphics](#graphics)
@@ -37,9 +37,9 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
 - [Reactive Library](#reactive-library)
 - [Caching Library](#caching-library)
 - [JQuery](#jquery)
-- [Dependency Injection](#dependency-injection)
 - [Node JS](#node-js)
 - [Router](#router)
+- [State Management](#state-management)
 - [UI Framework](#ui-framework)
 - [Web APIs](#web-apis)
 - [Jackson Library](#jackson-library)
@@ -49,7 +49,7 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
 - [REST Library](#rest-library)
 - [Validator](#validator)
 - [Auth](#auth)
-- [Support Library](#support-library)
+- [Miscellaneous Library](#miscellaneous-library)
 
 
 ## Maven Plugin
@@ -70,10 +70,12 @@ Spring Boot Archetype :sparkling_heart:
 - [gwt-boot-modules](https://github.com/gwtboot/gwt-boot-modules) - GWT Boot similar to Spring Boot makes your GWT 
 application development easy to start with :sparkling_heart:
 
-## State Management
+## Dependency Injection
 
-- [arez](https://arez.github.io) - Fast, easy state management library (JsInterop) :sparkling_heart:
-- [gwt-pushstate](https://gitlab.com/ManfredTremmel/gwt-pushstate) - HTML5 push state library
+- [dagger2](https://dagger.dev) :sparkling_heart:
+- [sting](https://sting-ioc.github.io) - A fast, easy to use, compile-time dependency injection toolkit :sparkling_heart:
+- [crysknife](https://github.com/crysknife-io/crysknife) :sparkling_heart:
+- [google-gin](https://github.com/gwtplus/google-gin)
 
 ## Maps
 
@@ -167,13 +169,6 @@ Web APIs specification WebIDL :sparkling_heart:
 - [jqm4gwt](https://github.com/jqm4gwt/jqm4gwt) - JQuery mobile based on [jquery](https://jquery.com) (JSNI)
 - [gwtquery](https://github.com/ArcBees/gwtquery) - JQuery based on GWT 
 
-## Dependency Injection
-
-- [dagger2](https://dagger.dev) :sparkling_heart:
-- [sting](https://sting-ioc.github.io) - A fast, easy to use, compile-time dependency injection toolkit :sparkling_heart:
-- [crysknife](https://github.com/crysknife-io/crysknife) :sparkling_heart:
-- [google-gin](https://github.com/gwtplus/google-gin)
-
 ## Node JS
 
 - [gwt-node](https://github.com/cretz/gwt-node) - Node JS based on [node.js](https://nodejs.org/en) (JSNI)
@@ -183,6 +178,11 @@ Web APIs specification WebIDL :sparkling_heart:
 - [mvp4g2](https://github.com/mvp4g/mvp4g2) - (JsInterop) :sparkling_heart:
 - [nalu](https://github.com/NaluKit/nalu) - (JsInterop) :sparkling_heart:
 - [router-fu](https://github.com/realityforge/router-fu) - A framework agnostic, state producing router (JsInterop) :sparkling_heart:
+
+## State Management
+
+- [arez](https://arez.github.io) - Fast, easy state management library (JsInterop) :sparkling_heart:
+- [gwt-pushstate](https://gitlab.com/ManfredTremmel/gwt-pushstate) - HTML5 push state library
 
 ## UI Framework
 
@@ -249,7 +249,7 @@ validators :sparkling_heart:
 - [gwt-keycloak](https://github.com/realityforge/gwt-keycloak) - A keycloak authentication adapter based on 
 [keycloak.js](https://www.npmjs.com/package/keycloak-js) (JSNI) 
 
-## Support Library
+## Miscellaneous Library
 
 - [gwt-commons-lang3](https://gitlab.com/ManfredTremmel/gwt-commons-lang3) - Apache commons lang library for GWT :sparkling_heart:
 - [gwt-commons-codec](https://gitlab.com/ManfredTremmel/gwt-commons-codec) - Apache commons codec library for GWT :sparkling_heart:
