@@ -105,7 +105,8 @@ application development easy to start with :sparkling_heart:
 
 ## Web Worker
 
-- [gwt-serviceworker-linker](https://github.com/realityforge/gwt-serviceworker-linker) - A GWT linker that generates a serviceworker (JsInterop)
+- [gwt-serviceworker-linker](https://github.com/realityforge/gwt-serviceworker-linker) - A GWT linker that 
+generates a serviceworker (JsInterop) :sparkling_heart:
 - [gwt-webworker](https://gitlab.com/ManfredTremmel/gwt-webworker) - Web worker lib (JSNI)
 - [gwtwwlinker](https://github.com/tomekziel/gwtwwlinker) - Web worker lib (JSNI)
 - [gwt-worker](https://github.com/gwtplus/gwt-worker) - Web worker lib (JSNI)
