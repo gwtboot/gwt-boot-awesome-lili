@@ -102,6 +102,7 @@ application development easy to start with :sparkling_heart:
 [patternfly](https://www.patternfly.org) (JsInterop) :sparkling_heart:
 - [errai](https://github.com/errai/errai) - UI framework based on JavaEE (JSNI) :sparkling_heart:
 - [smartgwt](https://www.smartclient.com/product/smartgwt.jsp) - UI framework for GWT from Isomorphic Software 
+- [sencha-gxt](https://www.sencha.com/products/gxt) - UI framework for GWT from Sencha Idera 
 - [gwt-react](https://github.com/GWTReact/gwt-react) - UI framework based on [react](https://reactjs.org) (JsInterop)
 - [angular2-gwt](https://github.com/ltearno/angular2-gwt) - UI framework based on [angular](https://angular.io) (JsInterop) 
 - [html-ui-binder](https://github.com/RaHery/html-ui-binder) - UI framework for UI Binder but with HTML
