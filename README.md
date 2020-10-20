@@ -31,7 +31,7 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
 - [Payment](#payment)
 - [Web Sockets](#web-sockets)
 - [Promise and Future Library](#promise-and-future-library)
-- [RX Library](#rx-library)
+- [Reactive Library](#reactive-library)
 - [Caching Library](#caching-library)
 - [JQuery](#jquery)
 - [Dependency Injection](#dependency-injection)
@@ -147,7 +147,7 @@ generates a serviceworker (JsInterop) :sparkling_heart:
 - [gwt-completablefuture](https://github.com/OneGeek/GWT-CompletableFuture) - Completable future library 
 - [gdeferred](https://github.com/reinert/gdeferred) - Promise library 
 
-## RX Library
+## Reactive Library
 
 - [rxjava-gwt](https://github.com/intendia-oss/rxjava-gwt) - Reactive library
 - [rxgwt](https://github.com/intendia-oss/rxgwt) - Reactive library
