@@ -174,6 +174,7 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
 
 - [gwt-jackson](https://github.com/nmorel/gwt-jackson) - Jackson library
 - [jackson-xml](https://github.com/treblereel/jackson-xml) - Jackson library
+- [domino-jackson](https://github.com/DominoKit/domino-jackson) - Jackson library
 
 ## Analytics
 
