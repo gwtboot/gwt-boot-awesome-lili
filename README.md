@@ -2,12 +2,15 @@
 
 <img src="gwtboot-logo-dark.png" width="130">
 
-GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries with JsInterop Interfaces and Others
+- GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries with JsInterop Interfaces and Others.
+- :green_heart: means that the current library is supported by the author. 
+
 
 # Contents
 
 - [Maven Plugin](#maven-plugin)
 - [Gradle Plugin](#gradle-plugin)
+- [Starter](#starter)
 - [State Management](#state-management)
 - [Maps](#maps)
 - [Diagrams](#diagrams)
@@ -51,9 +54,14 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
 - [gwt-gradle](https://github.com/ascendtech/gwt-gradle) - Gradle plugin for GWT
 
 
+## Starter
+
+- [gwt-boot-modules](https://github.com/gwtboot/gwt-boot-modules) - GWT Boot similar to Spring Boot makes your GWT app development 
+easy to start with :green_heart:
+
 ## State Management
 
-- [arez](https://arez.github.io) - Fast, easy state management library (JsInterop)
+- [arez](https://arez.github.io) - Fast, easy state management library (JsInterop) :green_heart:
 - [gwt-pushstate](https://gitlab.com/ManfredTremmel/gwt-pushstate) - HTML5 push state library
 
 ## Maps
@@ -63,7 +71,7 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
 
 ## Diagrams
 
-- [charba](https://github.com/pepstock-org/Charba) - Chart library based on [chart.js](https://www.chartjs.org) (JsInterop)
+- [charba](https://github.com/pepstock-org/Charba) - Chart library based on [chart.js](https://www.chartjs.org) (JsInterop) :green_heart:
 - [gwt-highcharts](https://github.com/ascendtech/gwt-highcharts) - Chart library based on [highchart.js](https://www.highcharts.com) (JsInterop)
 - [d3js](https://d3js.org) - Chart library based on [gwt-d3](https://github.com/gwtd3/gwt-d3) (JsInterop)
 - [gwt-chartjs](https://github.com/sidney3172/gwt-chartjs) - Chart library based on [chart.js](https://www.chartjs.org) (JSNI)
@@ -79,13 +87,13 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
 
 ## 3D Library
 
-- [three4g](https://github.com/treblereel/three4g) - 3D library based on [three.js](https://github.com/mrdoob/three.js) (JsInterop)
+- [three4g](https://github.com/treblereel/three4g) - 3D library based on [three.js](https://github.com/mrdoob/three.js) (JsInterop) :green_heart:
 - [gwt.threejs](https://gitlab.com/jnorthrup1/gwt.threejs) - 3D library based on [three.js](https://github.com/mrdoob/three.js) (JSNI)
 
 ## Math Library
 
 - [vecmath](https://github.com/realityforge/vecmath) - A vector math library optimized for GWT/J2CL (JsInterop)
-- [gwt-bigmath](https://github.com/treblereel/gwt-bigmath) - A big math library (JsInterop)
+- [gwt-bigmath](https://github.com/treblereel/gwt-bigmath) - A big math library (JsInterop) :green_heart:
 
 ## Web Worker
 
@@ -96,8 +104,8 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
 
 ## JsInterop Generator
 
-- [jsinterop-generator](https://github.com/google/jsinterop-generator) - Generator to generate JsInterop files from Clousure
-- [webtack](https://github.com/realityforge/webtack) - Generator to generate JsInterop files from Web APIs specification
+- [jsinterop-generator](https://github.com/google/jsinterop-generator) - Generator to generate JsInterop files from Clousure :green_heart:
+- [webtack](https://github.com/realityforge/webtack) - Generator to generate JsInterop files from Web APIs specification :green_heart:
 - [typescript2java](https://github.com/ltearno/typescript2java) - Generator to generate JsInterop files from TypeScript
 
 ## QR Scanner
@@ -146,9 +154,9 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
 
 ## Dependency Injection
 
-- [dagger2](https://dagger.dev)
-- [sting](https://sting-ioc.github.io) - A fast, easy to use, compile-time dependency injection toolkit
-- [crysknife](https://github.com/crysknife-io/crysknife)
+- [dagger2](https://dagger.dev) :green_heart:
+- [sting](https://sting-ioc.github.io) - A fast, easy to use, compile-time dependency injection toolkit :green_heart:
+- [crysknife](https://github.com/crysknife-io/crysknife) :green_heart:
 - [google-gin](https://github.com/gwtplus/google-gin)
 
 ## Node JS
@@ -157,36 +165,42 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
 
 ## Router
 
-- [mvp4g2](https://github.com/mvp4g/mvp4g2) - (JsInterop)
-- [nalu](https://github.com/NaluKit/nalu) - (JsInterop)
-- [router-fu](https://github.com/realityforge/router-fu) - A framework agnostic, state producing router (JsInterop)
+- [mvp4g2](https://github.com/mvp4g/mvp4g2) - (JsInterop) 
+- [nalu](https://github.com/NaluKit/nalu) - (JsInterop) :green_heart:
+- [router-fu](https://github.com/realityforge/router-fu) - A framework agnostic, state producing router (JsInterop) :green_heart:
 
 ## UI Framework
 
-- [domino-ui](https://github.com/DominoKit/domino-ui) - UI framework based on [material design](https://material.io/design) (JsInterop)
-- [gwt-material](https://github.com/GwtMaterialDesign/gwt-material) - UI framework based on [material design](https://material.io/design) (JsInterop)
-- [gwt-react](https://github.com/GWTReact/gwt-react) - UI franework based on [react](https://reactjs.org) (JsInterop)
-- [react4j](https://github.com/react4j/react4j.github.io) - UI franework based on [react](https://reactjs.org) (JsInterop)
-- [gwtbootstrap3](https://github.com/treblereel/gwtbootstrap3) - UI framework based on [bootstrap](https://getbootstrap.com) (JsInterop)
-- [vue-gwt](https://github.com/VueGWT/vue-gwt) - UI framework based on [vuejs](https://vuejs.org) (JsInterop)
+- [domino-ui](https://github.com/DominoKit/domino-ui) - UI framework based on 
+[material design](https://material.io/design) (JsInterop) :green_heart:
+- [gwt-material](https://github.com/GwtMaterialDesign/gwt-material) - UI framework based on 
+[material design](https://material.io/design) (JsInterop) :green_heart:
+- [gwt-react](https://github.com/GWTReact/gwt-react) - UI franework based on [react](https://reactjs.org) (JsInterop) 
+- [react4j](https://github.com/react4j/react4j.github.io) - UI franework based on 
+[react](https://reactjs.org) (JsInterop) :green_heart:
+- [gwtbootstrap3](https://github.com/treblereel/gwtbootstrap3) - UI framework based on 
+[bootstrap](https://getbootstrap.com) (JsInterop) :green_heart:
+- [vue-gwt](https://github.com/VueGWT/vue-gwt) - UI framework based on [vuejs](https://vuejs.org) (JsInterop) :green_heart:
 - [dncomponents](https://dncomponents.com/index.html) - UI framework based on [bootstrap](https://getbootstrap.com) and 
-[material design](https://material.io/design) (JsInterop)
+[material design](https://material.io/design) (JsInterop) :green_heart:
 - [angular2-gwt](https://github.com/ltearno/angular2-gwt) - UI framework based on [angular](https://angular.io) (JsInterop) 
 - [html-ui-binder](https://github.com/RaHery/html-ui-binder) - UI framework for UI Binder but with HTML
-- [errai](https://github.com/errai/errai) - UI framework based on JavaEE (JSNI)
+- [errai](https://github.com/errai/errai) - UI framework based on JavaEE (JSNI) :green_heart:
 - [gwt-theo](https://github.com/ArcBees/gwt-theo) - UI framework based on Salesforce [theo](https://github.com/salesforce-ux/theo) (JSNI)
 - [gwtbootstrap3](https://github.com/gwtbootstrap3/gwtbootstrap3) - UI framework based on [bootstrap](https://getbootstrap.com) (JSNI)
 
 ## Web APIs
 
-- [elemental2](https://github.com/google/elemental2) - Web APIs based on [web api](https://developer.mozilla.org/en-US/docs/Web/API) (JsInterop)
-- [elemento](https://github.com/hal/elemento) - Web APIs based on [elemental2](https://github.com/google/elemental2) (JsInterop)
+- [elemental2](https://github.com/google/elemental2) - Web APIs based on 
+[web api](https://developer.mozilla.org/en-US/docs/Web/API) (JsInterop) :green_heart:
+- [elemento](https://github.com/hal/elemento) - Web APIs based on 
+[elemental2](https://github.com/google/elemental2) (JsInterop) :green_heart:
 
 ## Jackson Library
 
 - [gwt-jackson](https://github.com/nmorel/gwt-jackson) - Jackson library
-- [jackson-xml](https://github.com/treblereel/jackson-xml) - Jackson library
-- [domino-jackson](https://github.com/DominoKit/domino-jackson) - Jackson library
+- [jackson-xml](https://github.com/treblereel/jackson-xml) - Jackson library :green_heart:
+- [domino-jackson](https://github.com/DominoKit/domino-jackson) - Jackson library :green_heart:
 
 ## Analytics
 
@@ -194,18 +208,18 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
 
 ## Event Bus
 
-- [gwteventbinder](https://github.com/google/gwteventbinder) - Simple event bus and very good one
+- [gwteventbinder](https://github.com/google/gwteventbinder) - Simple event bus and very good one :green_heart:
 
 ## Testing
 
-- [gwtmockito](https://github.com/google/gwtmockito) - Test Mockito for GWT 
-- [gwt-symbolmap](https://github.com/realityforge/gwt-symbolmap) - SymbolMap Support Library
-- [grim](https://github.com/realityforge/grim) - Assert unexpected symbols are eliminated from output
+- [gwtmockito](https://github.com/google/gwtmockito) - Test Mockito for GWT :green_heart:
+- [gwt-symbolmap](https://github.com/realityforge/gwt-symbolmap) - SymbolMap Support Library :green_heart:
+- [grim](https://github.com/realityforge/grim) - Assert unexpected symbols are eliminated from output :green_heart:
 
 ## REST Library
 
-- [domino-rest](https://github.com/DominoKit/domino-rest) - REST framework (JsInterop) 
-- [resty-gwt](https://github.com/resty-gwt/resty-gwt) - REST framework (JSNI)
+- [domino-rest](https://github.com/DominoKit/domino-rest) - REST framework (JsInterop) :green_heart:
+- [resty-gwt](https://github.com/resty-gwt/resty-gwt) - REST framework (JSNI) :green_heart:
 
 ## Validator
 
