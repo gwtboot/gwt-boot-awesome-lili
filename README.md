@@ -191,9 +191,9 @@ application development easy to start with :sparkling_heart:
 - [vue-gwt](https://github.com/VueGWT/vue-gwt) - UI framework based on [vuejs](https://vuejs.org) (JsInterop) :sparkling_heart:
 - [dncomponents](https://dncomponents.com/index.html) - UI framework based on [bootstrap](https://getbootstrap.com) and 
 [material design](https://material.io/design) (JsInterop) :sparkling_heart:
+- [errai](https://github.com/errai/errai) - UI framework based on JavaEE (JSNI) :sparkling_heart:
 - [angular2-gwt](https://github.com/ltearno/angular2-gwt) - UI framework based on [angular](https://angular.io) (JsInterop) 
 - [html-ui-binder](https://github.com/RaHery/html-ui-binder) - UI framework for UI Binder but with HTML
-- [errai](https://github.com/errai/errai) - UI framework based on JavaEE (JSNI) :sparkling_heart:
 - [gwt-theo](https://github.com/ArcBees/gwt-theo) - UI framework based on Salesforce [theo](https://github.com/salesforce-ux/theo) (JSNI)
 - [gwtbootstrap3](https://github.com/gwtbootstrap3/gwtbootstrap3) - UI framework based on [bootstrap](https://getbootstrap.com) (JSNI)
 
