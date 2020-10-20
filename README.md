@@ -236,8 +236,10 @@ generates a serviceworker (JsInterop) :sparkling_heart:
 
 ## Validator
 
-- [gwt-commons-validator](https://gitlab.com/ManfredTremmel/gwt-commons-validator) - Apache Library commons validator for GWT
-- [gwt-bean-validators](https://gitlab.com/ManfredTremmel/gwt-bean-validators) - Java Bean validators
+- [gwt-commons-validator](https://gitlab.com/ManfredTremmel/gwt-commons-validator) - Apache Library commons 
+validator for GWT :sparkling_heart:
+- [gwt-bean-validators](https://gitlab.com/ManfredTremmel/gwt-bean-validators) - Java Bean 
+validators :sparkling_heart:
 
 ## Auth 
 
@@ -246,11 +248,13 @@ generates a serviceworker (JsInterop) :sparkling_heart:
 
 ## Support Library
 
-- [gwt-goodies](https://github.com/peruncs/gwt) - Collection of JS utility / small libraries (JsInterop)
-- [gwt-commons-lang3](https://gitlab.com/ManfredTremmel/gwt-commons-lang3) - Apache commons lang library for GWT
-- [gwt-commons-codec](https://gitlab.com/ManfredTremmel/gwt-commons-codec) - Apache commons codec library for GWT
-- [braincheck](https://github.com/realityforge/braincheck) - A GWT/J2CL invariant checking toolkit that is optimized out in production builds
-- [org.jetbrains.annotations](https://github.com/realityforge/org.jetbrains.annotations) - A GWT/J2CL compatible org.jetbrains.annotations library
+- [gwt-commons-lang3](https://gitlab.com/ManfredTremmel/gwt-commons-lang3) - Apache commons lang library for GWT :sparkling_heart:
+- [gwt-commons-codec](https://gitlab.com/ManfredTremmel/gwt-commons-codec) - Apache commons codec library for GWT :sparkling_heart:
+- [braincheck](https://github.com/realityforge/braincheck) - A GWT/J2CL invariant checking toolkit that is optimized out in 
+production builds
+- [org.jetbrains.annotations](https://github.com/realityforge/org.jetbrains.annotations) - A GWT/J2CL compatible 
+org.jetbrains.annotations library
 - [javax.annotation](https://github.com/realityforge/javax.annotation) - A J2CL compatible javax.annotation library
+- [gwt-goodies](https://github.com/peruncs/gwt) - Collection of JS utility / small libraries (JsInterop)
 - [gwt-dnd](https://gitlab.com/vedenin/gwt-dnd) - Drag and drop library for GWT
 
