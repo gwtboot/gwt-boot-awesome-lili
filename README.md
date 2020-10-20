@@ -26,6 +26,9 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
 - [Event Bus](#event-bus)
 - [State Management](#state-management)
 - [Testing](#testing)
+- [REST Library](#rest-library)
+- [Jackson Library](#jackson-library)
+- [Validator](#validator)
 - [Maps](#maps)
 - [Diagrams](#diagrams)
 - [Graphics](#graphics)
@@ -43,9 +46,6 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
 - [Caching Library](#caching-library)
 - [JQuery](#jquery)
 - [Node JS](#node-js)
-- [REST Library](#rest-library)
-- [Jackson Library](#jackson-library)
-- [Validator](#validator)
 - [Analytics](#analytics)
 - [Auth](#auth)
 - [Miscellaneous Library](#miscellaneous-library)
@@ -129,6 +129,24 @@ application development easy to start with :sparkling_heart:
 - [gwtmockito](https://github.com/google/gwtmockito) - Test Mockito for GWT :sparkling_heart:
 - [gwt-symbolmap](https://github.com/realityforge/gwt-symbolmap) - SymbolMap Support Library :sparkling_heart:
 - [grim](https://github.com/realityforge/grim) - Assert unexpected symbols are eliminated from output :sparkling_heart:
+
+## REST Library
+
+- [domino-rest](https://github.com/DominoKit/domino-rest) - REST framework (JsInterop) :sparkling_heart:
+- [resty-gwt](https://github.com/resty-gwt/resty-gwt) - REST framework (JSNI) :sparkling_heart:
+
+## Jackson Library
+
+- [jackson-xml](https://github.com/treblereel/jackson-xml) - Jackson library :sparkling_heart:
+- [domino-jackson](https://github.com/DominoKit/domino-jackson) - Jackson library :sparkling_heart:
+- [gwt-jackson](https://github.com/nmorel/gwt-jackson) - Jackson library
+
+## Validator
+
+- [gwt-commons-validator](https://gitlab.com/ManfredTremmel/gwt-commons-validator) - Apache Library commons 
+validator for GWT :sparkling_heart:
+- [gwt-bean-validators](https://gitlab.com/ManfredTremmel/gwt-bean-validators) - Java Bean 
+validators :sparkling_heart:
 
 ## Maps
 
@@ -217,24 +235,6 @@ generates a serviceworker (JsInterop) :sparkling_heart:
 ## Node JS
 
 - [gwt-node](https://github.com/cretz/gwt-node) - Node JS based on [node.js](https://nodejs.org/en) (JSNI)
-
-## REST Library
-
-- [domino-rest](https://github.com/DominoKit/domino-rest) - REST framework (JsInterop) :sparkling_heart:
-- [resty-gwt](https://github.com/resty-gwt/resty-gwt) - REST framework (JSNI) :sparkling_heart:
-
-## Jackson Library
-
-- [jackson-xml](https://github.com/treblereel/jackson-xml) - Jackson library :sparkling_heart:
-- [domino-jackson](https://github.com/DominoKit/domino-jackson) - Jackson library :sparkling_heart:
-- [gwt-jackson](https://github.com/nmorel/gwt-jackson) - Jackson library
-
-## Validator
-
-- [gwt-commons-validator](https://gitlab.com/ManfredTremmel/gwt-commons-validator) - Apache Library commons 
-validator for GWT :sparkling_heart:
-- [gwt-bean-validators](https://gitlab.com/ManfredTremmel/gwt-bean-validators) - Java Bean 
-validators :sparkling_heart:
 
 ## Analytics
 
