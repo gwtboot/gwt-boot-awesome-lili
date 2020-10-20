@@ -100,7 +100,7 @@ application development easy to start with :sparkling_heart:
 
 ## Math Library
 
-- [vecmath](https://github.com/realityforge/vecmath) - A vector math library optimized for GWT/J2CL (JsInterop)
+- [vecmath](https://github.com/realityforge/vecmath) - A vector math library optimized for GWT/J2CL (JsInterop) :sparkling_heart:
 - [gwt-bigmath](https://github.com/treblereel/gwt-bigmath) - A big math library (JsInterop) :sparkling_heart:
 
 ## Web Worker
