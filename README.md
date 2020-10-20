@@ -23,6 +23,7 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
 - [Web APIs](#web-apis)
 - [UI Framework](#ui-framework)
 - [Router](#router)
+- [Event Bus](#event-bus)
 - [State Management](#state-management)
 - [Testing](#testing)
 - [Maps](#maps)
@@ -45,7 +46,6 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
 - [REST Library](#rest-library)
 - [Jackson Library](#jackson-library)
 - [Validator](#validator)
-- [Event Bus](#event-bus)
 - [Analytics](#analytics)
 - [Auth](#auth)
 - [Miscellaneous Library](#miscellaneous-library)
@@ -113,6 +113,10 @@ application development easy to start with :sparkling_heart:
 - [mvp4g2](https://github.com/mvp4g/mvp4g2) - (JsInterop) :sparkling_heart:
 - [nalu](https://github.com/NaluKit/nalu) - (JsInterop) :sparkling_heart:
 - [router-fu](https://github.com/realityforge/router-fu) - A framework agnostic, state producing router (JsInterop) :sparkling_heart:
+
+## Event Bus
+
+- [gwteventbinder](https://github.com/google/gwteventbinder) - Simple event bus and a very good one! :sparkling_heart:
 
 ## State Management
 
@@ -230,10 +234,6 @@ generates a serviceworker (JsInterop) :sparkling_heart:
 validator for GWT :sparkling_heart:
 - [gwt-bean-validators](https://gitlab.com/ManfredTremmel/gwt-bean-validators) - Java Bean 
 validators :sparkling_heart:
-
-## Event Bus
-
-- [gwteventbinder](https://github.com/google/gwteventbinder) - Simple event bus and very good one :sparkling_heart:
 
 ## Analytics
 
