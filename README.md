@@ -40,6 +40,7 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
 - [ZIP Files and LZMA Compression](#zip-files-and-lzma-compression)
 - [File Saver](#file-saver)
 - [Payment](#payment)
+- [IBAN and BIC](#iban-and-bic)
 - [Web Worker](#web-worker)
 - [Web Sockets](#web-sockets)
 - [Promise and Future Library](#promise-and-future-library)
@@ -203,6 +204,12 @@ validators :sparkling_heart:
 
 - [paypalwithgwt](https://github.com/schube/paypalwithgwt) - Payment library for Paypal JS based on [paypal checkout js sdk](https://developer.paypal.com/docs/checkout/integrate) (JsInterop)
 - [gwt-stripe](https://github.com/ArcBees/gwt-stripe) - Payment library for Stripe JS based on [stripe js sdk](https://stripe.com/docs/js) (JSNI)
+
+## IBAN and BIC
+
+- [iban4g](https://github.com/NaluKit/iban4g) - Library for generation and validation 
+of the International Bank Account Numbers (IBAN ISO_13616) and 
+Business Identifier Codes (BIC ISO_9362) :sparkling_heart:
 
 ## Web Worker
 
