@@ -33,6 +33,7 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
 - [Diagrams](#diagrams)
 - [Graphics](#graphics)
 - [Game Engine](#game-engine)
+- [Physics Engine](#physics-engine)
 - [3D Library](#3d-library)
 - [Math Library](#math-library)
 - [QR Scanner](#qr-scanner)
@@ -169,6 +170,10 @@ validators :sparkling_heart:
 ## Game Engine
 
 - [jbox2d](https://github.com/jbox2d/jbox2d) - Game engine 2D based on [box2d](https://box2d.org)
+
+## Physics Engine
+
+- [gwt-matter](https://github.com/TDesjardins/gwt-matter) - 2D rigid body physics engine based on [matter-js](https://brm.io/matter-js/) (JsInterop) :sparkling_heart:
 
 ## 3D Library
 
