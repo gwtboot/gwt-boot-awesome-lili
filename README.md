@@ -29,6 +29,7 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
 - [REST Library](#rest-library)
 - [Jackson Library](#jackson-library)
 - [Validator](#validator)
+- [Date and Time](#date-and-time)
 - [Maps](#maps)
 - [Diagrams](#diagrams)
 - [Graphics](#graphics)
@@ -149,6 +150,11 @@ application development easy to start with :sparkling_heart:
 validator for GWT :sparkling_heart:
 - [gwt-bean-validators](https://gitlab.com/ManfredTremmel/gwt-bean-validators) - Java Bean 
 validators :sparkling_heart:
+
+## Date and Time
+
+- [gwt-time](https://github.com/foal/gwt-time) - Library for Date and Time - Backport of functionality based 
+on JSR-310 to GWT (JsInterop) :sparkling_heart:
 
 ## Maps
 
