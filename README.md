@@ -29,6 +29,7 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
 - [REST Library](#rest-library)
 - [Jackson Library](#jackson-library)
 - [Validator](#validator)
+- [Data Binding](#data-binding)
 - [Date and Time](#date-and-time)
 - [Maps](#maps)
 - [Diagrams](#diagrams)
@@ -50,7 +51,7 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
 - [JQuery](#jquery)
 - [Node JS](#node-js)
 - [Analytics](#analytics)
-- [Auth](#auth)
+- [Auth and Security](#auth-and-security)
 - [Miscellaneous Library](#miscellaneous-library)
 - [JsInterop Generator](#jsinterop-generator)
 
@@ -150,6 +151,10 @@ application development easy to start with :sparkling_heart:
 validator for GWT :sparkling_heart:
 - [gwt-bean-validators](https://gitlab.com/ManfredTremmel/gwt-bean-validators) - Java Bean 
 validators :sparkling_heart:
+
+## Data Binding
+- [hexa.binding](https://github.com/ltearno/hexa.tools/tree/master/hexa.binding) - Fast dynamic data binding between values, 
+DTOs, Widgets and general Java objects
 
 ## Date and Time
 
@@ -258,10 +263,11 @@ generates a serviceworker (JsInterop) :sparkling_heart:
 
 - [universal-analytics](https://github.com/ArcBees/universal-analytics) - Analytics library 
 
-## Auth 
+## Auth and Security
 
 - [gwt-keycloak](https://github.com/realityforge/gwt-keycloak) - A keycloak authentication adapter based on 
 [keycloak.js](https://www.npmjs.com/package/keycloak-js) (JSNI) 
+- [gwtmap](https://github.com/FSecureLABS/GWTMap) - Tool for attacking surface of GWT based applications
 
 ## Miscellaneous Library
 
