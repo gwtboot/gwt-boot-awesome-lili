@@ -87,7 +87,7 @@ application development easy to start with :sparkling_heart:
 [web api](https://developer.mozilla.org/en-US/docs/Web/API) (JsInterop) :sparkling_heart:
 - [elemento](https://github.com/hal/elemento) - Web APIs based on 
 [elemental2](https://github.com/google/elemental2) (JsInterop) :sparkling_heart:
-- [webtack](https://github.com/realityforge/webtack) - Web APIs based on WebTack [elemental3](https://github.com/realityforge/webtack/tree/master/elemental3) :sparkling_heart:
+- [akasha](https://github.com/akasha/akasha) - Web APIs based on WebTack [akasha-webtack](https://github.com/akasha/akasha/tree/master/webtack) :sparkling_heart:
 
 ## UI Framework
 
@@ -285,6 +285,6 @@ org.jetbrains.annotations library :sparkling_heart:
 
 - [jsinterop-generator](https://github.com/google/jsinterop-generator) - Generator to generate JsInterop files from 
 Closure Extern files :sparkling_heart:
-- [webtack](https://github.com/realityforge/webtack) - Generator to generate JsInterop files from 
+- [akasha-webtack](https://github.com/akasha/akasha/tree/master/webtack) - Generator to generate JsInterop files from 
 Web APIs specification WebIDL :sparkling_heart:
 - [typescript2java](https://github.com/ltearno/typescript2java) - Generator to generate JsInterop files from TypeScript
