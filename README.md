@@ -26,7 +26,7 @@ GWT Boot Awesome Library List (Gwit a LiLi) - Collection of JavaScript Libraries
 - [Event Bus](#event-bus)
 - [State Management](#state-management)
 - [Testing](#testing)
-- [REST Library](#rest-library)
+- [HTTP and REST Library](#http-and-rest-library)
 - [Jackson Library](#jackson-library)
 - [Validator](#validator)
 - [Data Binding](#data-binding)
@@ -134,10 +134,11 @@ application development easy to start with :sparkling_heart:
 - [gwt-symbolmap](https://github.com/realityforge/gwt-symbolmap) - SymbolMap Support Library :sparkling_heart:
 - [grim](https://github.com/realityforge/grim) - Assert unexpected symbols are eliminated from output :sparkling_heart:
 
-## REST Library
+## HTTP and REST Library
 
 - [domino-rest](https://github.com/DominoKit/domino-rest) - REST framework (JsInterop) :sparkling_heart:
 - [resty-gwt](https://github.com/resty-gwt/resty-gwt) - REST framework (JSNI) :sparkling_heart:
+- [requestor] (https://github.com/reinert/requestor) - HTTP Client frameworks :sparkling_heart: 
 
 ## Jackson Library
 
