@@ -138,7 +138,7 @@ application development easy to start with :sparkling_heart:
 
 - [domino-rest](https://github.com/DominoKit/domino-rest) - REST framework (JsInterop) :sparkling_heart:
 - [resty-gwt](https://github.com/resty-gwt/resty-gwt) - REST framework (JSNI) :sparkling_heart:
-- [requestor] (https://github.com/reinert/requestor) - HTTP Client frameworks :sparkling_heart: 
+- [requestor](https://github.com/reinert/requestor) - HTTP Client frameworks :sparkling_heart: 
 
 ## Jackson Library
 
