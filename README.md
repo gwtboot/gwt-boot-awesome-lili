@@ -91,6 +91,7 @@ application development easy to start with :sparkling_heart:
 
 ## UI Framework
 
+- [webfx](https://github.com/webfx-project/webfx) - UI framework based on JavaFX :sparkling_heart:
 - [domino-ui](https://github.com/DominoKit/domino-ui) - UI framework based on 
 [material design](https://material.io/design) (JsInterop) :sparkling_heart:
 - [gwt-material](https://github.com/GwtMaterialDesign/gwt-material) - UI framework based on 
