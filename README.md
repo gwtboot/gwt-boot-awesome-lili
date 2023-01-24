@@ -73,8 +73,7 @@ Spring Boot Archetype :sparkling_heart:
 - [gwt-maven-archetypes](https://github.com/tbroyer/gwt-maven-archetypes) - GWT Maven Archetype :sparkling_heart:
 - [gwt-boot-modules](https://github.com/gwtboot/gwt-boot-modules) - GWT Boot similar to Spring Boot makes your GWT 
 application development easy to start with :sparkling_heart:
-- [gwt-boot-maven-archetype](https://github.com/gwtboot/gwt-boot-maven-archetypes)
- - Maven Archetype for GWT Boot projects :sparkling_heart:
+- [gwt-boot-maven-archetype](https://github.com/gwtboot/gwt-boot-maven-archetypes) - Maven Archetype for GWT Boot projects :sparkling_heart:
  
 ## Dependency Injection
 
