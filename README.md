@@ -85,41 +85,41 @@ application development easy to start with :sparkling_heart:
 ## Web APIs
 
 - [elemental2](https://github.com/google/elemental2) - Web APIs based on 
-[web api](https://developer.mozilla.org/en-US/docs/Web/API) (JsInterop) :sparkling_heart:
+[web api](https://developer.mozilla.org/en-US/docs/Web/API) :sparkling_heart:
 - [elemento](https://github.com/hal/elemento) - Web APIs based on 
-[elemental2](https://github.com/google/elemental2) (JsInterop) :sparkling_heart:
+[elemental2](https://github.com/google/elemental2) :sparkling_heart:
 - [akasha](https://github.com/akasha/akasha) - Web APIs based on WebTack [akasha-webtack](https://github.com/akasha/akasha/tree/master/webtack) :sparkling_heart:
 
 ## UI Framework
 
 - [webfx](https://github.com/webfx-project/webfx) - UI framework based on JavaFX :sparkling_heart:
 - [domino-ui](https://github.com/DominoKit/domino-ui) - UI framework based on 
-[material design](https://material.io/design) (JsInterop) :sparkling_heart:
+[material design](https://material.io/design) :sparkling_heart:
 - [gwt-material](https://github.com/GwtMaterialDesign/gwt-material) - UI framework based on 
-[material design](https://material.io/design) (JsInterop) :sparkling_heart:
+[material design](https://material.io/design) :sparkling_heart:
 - [react4j](https://github.com/react4j/react4j.github.io) - UI framework based on 
-[react](https://reactjs.org) (JsInterop) :sparkling_heart:
+[react](https://reactjs.org) :sparkling_heart:
 - [gwtbootstrap3](https://github.com/treblereel/gwtbootstrap3) - UI framework based on 
-[bootstrap](https://getbootstrap.com) (JsInterop) :sparkling_heart:
-- [vue-gwt](https://github.com/VueGWT/vue-gwt) - UI framework based on [vuejs](https://vuejs.org) (JsInterop) :sparkling_heart:
+[bootstrap](https://getbootstrap.com) :sparkling_heart:
+- [vue-gwt](https://github.com/VueGWT/vue-gwt) - UI framework based on [vuejs](https://vuejs.org) :sparkling_heart:
 - [dncomponents](https://dncomponents.com/index.html) - UI framework based on [bootstrap](https://getbootstrap.com) and 
-[material design](https://material.io/design) (JsInterop) :sparkling_heart:
+[material design](https://material.io/design) :sparkling_heart:
 - [patternfly-java](https://github.com/patternfly-java/patternfly-java) - UI framework based on 
-[patternfly](https://www.patternfly.org) (JsInterop) :sparkling_heart:
-- [errai](https://github.com/errai/errai) - UI framework based on JavaEE (JSNI) :sparkling_heart:
+[patternfly](https://www.patternfly.org) :sparkling_heart:
+- [errai](https://github.com/errai/errai) - UI framework based on JavaEE :sparkling_heart:
 - [smartgwt](https://www.smartclient.com/product/smartgwt.jsp) - UI framework for GWT from Isomorphic Software 
 - [sencha-gxt](https://www.sencha.com/products/gxt) - UI framework for GWT from Sencha Idera 
-- [gwt-react](https://github.com/GWTReact/gwt-react) - UI framework based on [react](https://reactjs.org) (JsInterop)
-- [angular2-gwt](https://github.com/ltearno/angular2-gwt) - UI framework based on [angular](https://angular.io) (JsInterop) 
+- [gwt-react](https://github.com/GWTReact/gwt-react) - UI framework based on [react](https://reactjs.org)
+- [angular2-gwt](https://github.com/ltearno/angular2-gwt) - UI framework based on [angular](https://angular.io)
 - [html-ui-binder](https://github.com/RaHery/html-ui-binder) - UI framework for UI Binder but with HTML
-- [gwt-theo](https://github.com/ArcBees/gwt-theo) - UI framework based on Salesforce [theo](https://github.com/salesforce-ux/theo) (JSNI)
-- [gwtbootstrap3](https://github.com/gwtbootstrap3/gwtbootstrap3) - UI framework based on [bootstrap](https://getbootstrap.com) (JSNI)
+- [gwt-theo](https://github.com/ArcBees/gwt-theo) - UI framework based on Salesforce [theo](https://github.com/salesforce-ux/theo)
+- [gwtbootstrap3](https://github.com/gwtbootstrap3/gwtbootstrap3) - UI framework based on [bootstrap](https://getbootstrap.com)
 
 ## Router
 
-- [mvp4g2](https://github.com/mvp4g/mvp4g2) - (JsInterop) :sparkling_heart:
-- [nalu](https://github.com/NaluKit/nalu) - (JsInterop) :sparkling_heart:
-- [router-fu](https://github.com/realityforge/router-fu) - A framework agnostic, state producing router (JsInterop) :sparkling_heart:
+- [mvp4g2](https://github.com/mvp4g/mvp4g2) - :sparkling_heart:
+- [nalu](https://github.com/NaluKit/nalu) - :sparkling_heart:
+- [router-fu](https://github.com/realityforge/router-fu) - A framework agnostic, state producing router :sparkling_heart:
 
 ## Event Bus
 
@@ -127,7 +127,7 @@ application development easy to start with :sparkling_heart:
 
 ## State Management
 
-- [arez](https://arez.github.io) - Fast, easy state management library (JsInterop) :sparkling_heart:
+- [arez](https://arez.github.io) - Fast, easy state management library :sparkling_heart:
 - [gwt-pushstate](https://gitlab.com/ManfredTremmel/gwt-pushstate) - HTML5 push state library
 
 ## Testing
@@ -138,8 +138,8 @@ application development easy to start with :sparkling_heart:
 
 ## HTTP and REST Library
 
-- [domino-rest](https://github.com/DominoKit/domino-rest) - REST framework (JsInterop) :sparkling_heart:
-- [resty-gwt](https://github.com/resty-gwt/resty-gwt) - REST framework (JSNI) :sparkling_heart:
+- [domino-rest](https://github.com/DominoKit/domino-rest) - REST framework :sparkling_heart:
+- [resty-gwt](https://github.com/resty-gwt/resty-gwt) - REST framework :sparkling_heart:
 - [requestor](https://github.com/reinert/requestor) - HTTP Event-Driven Client API framework :sparkling_heart: 
 
 ## Jackson Library
@@ -162,23 +162,23 @@ DTOs, Widgets and general Java objects
 ## Date and Time
 
 - [gwt-time](https://github.com/foal/gwt-time) - Library for Date and Time - Backport of functionality based 
-on JSR-310 to GWT (JsInterop) :sparkling_heart:
+on JSR-310 to GWT :sparkling_heart:
 
 ## Maps
 
-- [gwt-ol](https://github.com/TDesjardins/gwt-ol) - Maps library based on [openlayers](https://openlayers.org) (JsInterop) :sparkling_heart:
-- [gwt-maps](https://github.com/branflake2267/GWT-Maps-V3-Api) - Maps library based on [google maps](https://developers.google.com/maps/documentation) (JSNI)
+- [gwt-ol](https://github.com/TDesjardins/gwt-ol) - Maps library based on [openlayers](https://openlayers.org) :sparkling_heart:
+- [gwt-maps](https://github.com/branflake2267/GWT-Maps-V3-Api) - Maps library based on [google maps](https://developers.google.com/maps/documentation)
 
 ## Diagrams
 
-- [charba](https://github.com/pepstock-org/Charba) - Chart library based on [chart.js](https://www.chartjs.org) (JsInterop) :sparkling_heart:
-- [gwt-highcharts](https://github.com/ascendtech/gwt-highcharts) - Chart library based on [highchart.js](https://www.highcharts.com) (JsInterop)
-- [d3js](https://d3js.org) - Chart library based on [gwt-d3](https://github.com/gwtd3/gwt-d3) (JsInterop)
-- [gwt-chartjs](https://github.com/sidney3172/gwt-chartjs) - Chart library based on [chart.js](https://www.chartjs.org) (JSNI)
+- [charba](https://github.com/pepstock-org/Charba) - Chart library based on [chart.js](https://www.chartjs.org) :sparkling_heart:
+- [gwt-highcharts](https://github.com/ascendtech/gwt-highcharts) - Chart library based on [highchart.js](https://www.highcharts.com)
+- [d3js](https://d3js.org) - Chart library based on [gwt-d3](https://github.com/gwtd3/gwt-d3)
+- [gwt-chartjs](https://github.com/sidney3172/gwt-chartjs) - Chart library based on [chart.js](https://www.chartjs.org)
 
 ## Graphics
 
-- [gwt-snapsvg](https://github.com/ArcBees/gwt-snapsvg) - SVG library based on [snap.svg](http://snapsvg.io) (JsInterop)
+- [gwt-snapsvg](https://github.com/ArcBees/gwt-snapsvg) - SVG library based on [snap.svg](http://snapsvg.io)
 - [lib-gwt-svg](https://github.com/laaglu/lib-gwt-svg) - SVG library 
 - [lienzo-core](https://github.com/dikalo/lienzo-core) - Graphics library for GWT
 
@@ -188,36 +188,36 @@ on JSR-310 to GWT (JsInterop) :sparkling_heart:
 
 ## Physics Engine
 
-- [gwt-matter](https://github.com/TDesjardins/gwt-matter) - 2D rigid body physics engine based on [matter-js](https://brm.io/matter-js/) (JsInterop) :sparkling_heart:
+- [gwt-matter](https://github.com/TDesjardins/gwt-matter) - 2D rigid body physics engine based on [matter-js](https://brm.io/matter-js/) :sparkling_heart:
 
 ## 3D Library
 
-- [three4g](https://github.com/treblereel/three4g) - 3D library based on [three.js](https://github.com/mrdoob/three.js) (JsInterop) :sparkling_heart:
-- [gwt.threejs](https://gitlab.com/jnorthrup1/gwt.threejs) - 3D library based on [three.js](https://github.com/mrdoob/three.js) (JSNI)
+- [three4g](https://github.com/treblereel/three4g) - 3D library based on [three.js](https://github.com/mrdoob/three.js) :sparkling_heart:
+- [gwt.threejs](https://gitlab.com/jnorthrup1/gwt.threejs) - 3D library based on [three.js](https://github.com/mrdoob/three.js)
 
 ## Math Library
 
-- [vecmath](https://github.com/realityforge/vecmath) - A vector math library optimized for GWT/J2CL (JsInterop) :sparkling_heart:
-- [gwt-bigmath](https://github.com/treblereel/gwt-bigmath) - A big math library (JsInterop) :sparkling_heart:
+- [vecmath](https://github.com/realityforge/vecmath) - A vector math library optimized for GWT/J2CL :sparkling_heart:
+- [gwt-bigmath](https://github.com/treblereel/gwt-bigmath) - A big math library :sparkling_heart:
 
 ## QR Scanner
 
-- [gwt-qr-scanner](https://github.com/masterdany88/gwt-qr-scanner) - QR scanner based on [nimiq.qr-scanner](https://github.com/nimiq/qr-scanner) (JsInterop)
+- [gwt-qr-scanner](https://github.com/masterdany88/gwt-qr-scanner) - QR scanner based on [nimiq.qr-scanner](https://github.com/nimiq/qr-scanner)
 - [gwt-qr-code](https://github.com/realityforge/gwt-qr-code) - GWT QR Code Generation 
 
 ## ZIP Files and LZMA Compression
 
-- [gwtjszip](https://github.com/ainslec/GWTJSZip) - Library for zip files based on [jszip](https://stuk.github.io/jszip) (JSNI)
+- [gwtjszip](https://github.com/ainslec/GWTJSZip) - Library for zip files based on [jszip](https://stuk.github.io/jszip)
 - [gwt-lzma](https://gitlab.com/ManfredTremmel/gwt-lzma) - Library for LZMA compression
 
 ## File Saver
 
-- [filesaver-js-gwt](https://github.com/ainslec/FileSaverJsGwt) - Library for saving files based on [filesaver-js](https://github.com/eligrey/FileSaver.js) (JSNI)
+- [filesaver-js-gwt](https://github.com/ainslec/FileSaverJsGwt) - Library for saving files based on [filesaver-js](https://github.com/eligrey/FileSaver.js) 
 
 ## Payment
 
-- [paypalwithgwt](https://github.com/schube/paypalwithgwt) - Payment library for Paypal JS based on [paypal checkout js sdk](https://developer.paypal.com/docs/checkout/integrate) (JsInterop)
-- [gwt-stripe](https://github.com/ArcBees/gwt-stripe) - Payment library for Stripe JS based on [stripe js sdk](https://stripe.com/docs/js) (JSNI)
+- [paypalwithgwt](https://github.com/schube/paypalwithgwt) - Payment library for Paypal JS based on [paypal checkout js sdk](https://developer.paypal.com/docs/checkout/integrate)
+- [gwt-stripe](https://github.com/ArcBees/gwt-stripe) - Payment library for Stripe JS based on [stripe js sdk](https://stripe.com/docs/js)
 
 ## IBAN and BIC
 
@@ -228,19 +228,19 @@ Business Identifier Codes (BIC ISO_9362) :sparkling_heart:
 ## Web Worker
 
 - [gwt-serviceworker-linker](https://github.com/realityforge/gwt-serviceworker-linker) - A GWT linker that 
-generates a serviceworker (JsInterop) :sparkling_heart:
-- [gwt-webworker](https://gitlab.com/ManfredTremmel/gwt-webworker) - Web worker lib (JSNI)
-- [gwtwwlinker](https://github.com/tomekziel/gwtwwlinker) - Web worker lib (JSNI)
-- [gwt-worker](https://github.com/gwtplus/gwt-worker) - Web worker lib (JSNI)
+generates a serviceworker :sparkling_heart:
+- [gwt-webworker](https://gitlab.com/ManfredTremmel/gwt-webworker) - Web worker lib
+- [gwtwwlinker](https://github.com/tomekziel/gwtwwlinker) - Web worker lib
+- [gwt-worker](https://github.com/gwtplus/gwt-worker) - Web worker lib
 
 ## Web Sockets
 
 - [webbit-gwt](https://github.com/niloc132/webbit-gwt) - Web sockets 
-- [gwt-socket.io](https://github.com/jumanor/gwt_socket.io) - Socket IO library based on [socket-io](https://socket.io) (JSNI)
+- [gwt-socket.io](https://github.com/jumanor/gwt_socket.io) - Socket IO library based on [socket-io](https://socket.io)
 
 ## Promise and Future Library
 
-- [gwt-promises](https://github.com/jimmyfm/gwt-promises) - Promise library based on [promise.js](https://www.promisejs.org) (JsInterop)
+- [gwt-promises](https://github.com/jimmyfm/gwt-promises) - Promise library based on [promise.js](https://www.promisejs.org)
 - [gwt-completablefuture](https://github.com/OneGeek/GWT-CompletableFuture) - Completable future library 
 - [gdeferred](https://github.com/reinert/gdeferred) - Promise library 
 
@@ -255,12 +255,12 @@ generates a serviceworker (JsInterop) :sparkling_heart:
 
 ## JQuery
 
-- [jqm4gwt](https://github.com/jqm4gwt/jqm4gwt) - JQuery mobile based on [jquery](https://jquery.com) (JSNI)
+- [jqm4gwt](https://github.com/jqm4gwt/jqm4gwt) - JQuery mobile based on [jquery](https://jquery.com)
 - [gwtquery](https://github.com/ArcBees/gwtquery) - JQuery based on GWT 
 
 ## Node JS
 
-- [gwt-node](https://github.com/cretz/gwt-node) - Node JS based on [node.js](https://nodejs.org/en) (JSNI)
+- [gwt-node](https://github.com/cretz/gwt-node) - Node JS based on [node.js](https://nodejs.org/en)
 
 ## Analytics
 
@@ -269,7 +269,7 @@ generates a serviceworker (JsInterop) :sparkling_heart:
 ## Auth and Security
 
 - [gwt-keycloak](https://github.com/realityforge/gwt-keycloak) - A keycloak authentication adapter based on 
-[keycloak.js](https://www.npmjs.com/package/keycloak-js) (JSNI) 
+[keycloak.js](https://www.npmjs.com/package/keycloak-js)
 - [gwtmap](https://github.com/FSecureLABS/GWTMap) - Tool for attacking surface of GWT based applications
 
 ## Miscellaneous Library
@@ -281,7 +281,7 @@ production builds :sparkling_heart:
 - [org.jetbrains.annotations](https://github.com/realityforge/org.jetbrains.annotations) - A GWT/J2CL compatible 
 org.jetbrains.annotations library :sparkling_heart:
 - [javax.annotation](https://github.com/realityforge/javax.annotation) - A J2CL compatible javax.annotation library :sparkling_heart:
-- [gwt-goodies](https://github.com/peruncs/gwt) - Collection of JS utility / small libraries (JsInterop)
+- [gwt-goodies](https://github.com/peruncs/gwt) - Collection of JS utility / small libraries
 - [gwt-dnd](https://gitlab.com/vedenin/gwt-dnd) - Drag and drop library for GWT
 
 ## JsInterop Generator
