@@ -246,8 +246,8 @@ generates a serviceworker :sparkling_heart:
 
 ## Reactive Library
 
-- [rxjava-gwt](https://github.com/intendia-oss/rxjava-gwt) - Reactive library
-- [rxgwt](https://github.com/intendia-oss/rxgwt) - Reactive library
+- [rxjava-gwt](https://github.com/intendia-oss/rxjava-gwt) - Reactive library :sparkling_heart:
+- [rxgwt](https://github.com/intendia-oss/rxgwt) - Reactive library :sparkling_heart:
 
 ## Caching Library
 
