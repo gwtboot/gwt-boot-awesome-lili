@@ -92,6 +92,7 @@ application development easy to start with :sparkling_heart:
 
 ## UI Framework
 
+- [gwt-fusion-ui](https://github.com/gwt-fusion/gwt-fusion-ui) - GWT UI components with Tailwind DNA :sparkling_heart:
 - [webfx](https://github.com/webfx-project/webfx) - UI framework based on JavaFX :sparkling_heart:
 - [domino-ui](https://github.com/DominoKit/domino-ui) - UI framework based on 
 [material design](https://material.io/design) :sparkling_heart:
