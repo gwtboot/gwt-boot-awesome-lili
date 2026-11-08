@@ -104,6 +104,8 @@ application development easy to start with :sparkling_heart:
 [patternfly](https://www.patternfly.org) :sparkling_heart:
 - [gwtbootstrap5](https://github.com/themarioga/gwtbootstrap5) - UI framework based on latest
 [bootstrap 5](https://getbootstrap.com) :sparkling_heart:
+- [bootstrap-widgets](https://github.com/instanto-io/bootstrap-widgets) - another UI framework based on latest
+[bootstrap 5](https://getbootstrap.com) :sparkling_heart: with TeaVM support,
 - [sayaya ui](https://github.com/sayaya1090/sayaya-ui) - UI framework based on [Material Web Components](https://github.com/material-components/material-web) :sparkling_heart:
 - [errai](https://github.com/errai/errai) - UI framework based on JavaEE :sparkling_heart:
 - [gwtbootstrap3](https://github.com/treblereel/gwtbootstrap3) - UI framework based on 
